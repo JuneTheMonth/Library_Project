@@ -1,0 +1,1000 @@
+"ISBN","Book-Title","Book-Author","Year-Of-Publication","Publisher","Copies"
+"0195153448","Classical Mythology","Mark P. O. Morford","2002","Oxford University Press",6
+"0002005018","Clara Callan","Richard Bruce Wright","2001","HarperFlamingo Canada",2
+"0060973129","Decision in Normandy","Carlo D'Este","1991","HarperPerennial",1
+"0374157065","Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It","Gina Bari Kolata","1999","Farrar Straus Giroux",3
+"0393045218","The Mummies of Urumchi","E. J. W. Barber","1999","W. W. Norton &amp",1
+"0399135782","The Kitchen God's Wife","Amy Tan","1991","Putnam Pub Group",4
+"0425176428","What If?: The World's Foremost Military Historians Imagine What Might Have Been","Robert Cowley","2000","Berkley Publishing Group",1
+"0671870432","PLEADING GUILTY","Scott Turow","1993","Audioworks",2
+"0679425608","Under the Black Flag: The Romance and the Reality of Life Among the Pirates","David Cordingly","1996","Random House",1
+"074322678X","Where You'll Find Me: And Other Stories","Ann Beattie","2002","Scribner",1
+"0771074670","Nights Below Station Street","David Adams Richards","1988","Emblem Editions",1
+"080652121X","Hitler's Secret Bankers: The Myth of Swiss Neutrality During the Holocaust","Adam Lebor","2000","Citadel Press",1
+"0887841740","The Middle Stories","Sheila Heti","2004","House of Anansi Press",2
+"1552041778","Jane Doe","R. J. Kaiser","1999","Mira Books",1
+"1558746218","A Second Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series)","Jack Canfield","1998","Health Communications",1
+"1567407781","The Witchfinder (Amos Walker Mystery Series)","Loren D. Estleman","1998","Brilliance Audio - Trade",1
+"1575663937","More Cunning Than Man: A Social History of Rats and Man","Robert Hendrickson","1999","Kensington Publishing Corp.",1
+"1881320189","Goodbye to the Buttermilk Sky","Julia Oliver","1994","River City Pub",3
+"0440234743","The Testament","John Grisham","1999","Dell",1
+"0452264464","Beloved (Plume Contemporary Fiction)","Toni Morrison","1994","Plume",1
+"0609804618","Our Dumb Century: The Onion Presents 100 Years of Headlines from America's Finest News Source","The Onion","1999","Three Rivers Press",1
+"1841721522","New Vegetarian: Bold and Beautiful Recipes for Every Occasion","Celia Brooks Brown","2001","Ryland Peters &amp",4
+"1879384493","If I'd Known Then What I Know Now: Why Not Learn from the Mistakes of Others? : You Can't Afford to Make Them All Yourself","J. R. Parrish","2003","Cypress House",1
+"0439095026","Tell Me This Isn't Happening","Robynn Clairday","1999","Scholastic",1
+"0689821166","Flood : Mississippi 1927","Kathleen Duey","1998","Aladdin",1
+"0971880107","Wild Animus","Rich Shapero","2004","Too Far",1
+"0345402871","Airframe","Michael Crichton","1997","Ballantine Books",6
+"0345417623","Timeline","MICHAEL CRICHTON","2000","Ballantine Books",1
+"0684823802","OUT OF THE SILENT PLANET","C.S. Lewis","1996","Scribner",1
+"0375759778","Prague : A Novel","ARTHUR PHILLIPS","2003","Random House Trade Paperbacks",1
+"0425163091","Chocolate Jesus","Stephan Jaramillo","1998","Berkley Publishing Group",1
+"3404921038","Wie Barney es sieht.","Mordecai Richler","2002","Lübbe",1
+"3442353866","Der Fluch der Kaiserin. Ein Richter- Di- Roman.","Eleanor Cooney","2001","Goldmann",7
+"3442410665","Sturmzeit. Roman.","Charlotte Link","1991","Goldmann",1
+"3442446937","Tage der Unschuld.","Richard North Patterson","2000","Goldmann",1
+"0375406328","Lying Awake","Mark Salzman","2000","Alfred A. Knopf",1
+"0446310786","To Kill a Mockingbird","Harper Lee","1988","Little Brown &amp",1
+"0449005615","Seabiscuit: An American Legend","LAURA HILLENBRAND","2002","Ballantine Books",1
+"0060168013","Pigs in Heaven","Barbara Kingsolver","1993","Harpercollins",1
+"038078243X","Miss Zukas and the Raven's Dance","Jo Dereske","1996","Avon",1
+"055321215X","Pride and Prejudice","Jane Austen","1983","Bantam",1
+"067176537X","The Therapeutic Touch: How to Use Your Hands to Help or to Heal","Dolores Krieger","1979","Fireside",5
+"0061099686","Downtown","Anne Rivers Siddons","1995","HarperTorch",1
+"0553582909","Icebound","Dean R. Koontz","2000","Bantam Books",3
+"0671888587","I'll Be Seeing You","Mary Higgins Clark","1994","Pocket",1
+"0553582747","From the Corner of His Eye","Dean Koontz","2001","Bantam Books",4
+"0425182908","Isle of Dogs","Patricia Cornwell","2002","Berkley Publishing Group",1
+"042518630X","Purity in Death","J.D. Robb","2002","Berkley Publishing Group",1
+"0440223571","This Year It Will Be Different: And Other Stories","Maeve Binchy","1997","Dell",1
+"0812523873","Proxies","Laura J. Mixon","1999","Tor Books",1
+"0842342702","Left Behind: A Novel of the Earth's Last Days (Left Behind #1)","Tim Lahaye","2000","Tyndale House Publishers",1
+"0440225701","The Street Lawyer","JOHN GRISHAM","1999","Dell",1
+"0156047624","All the King's Men","Robert Penn Warren","1982","Harvest Books",1
+"0245542957","Pacific Northwest","Hans Johannes Hoefer","1985","Chambers Harrap Publishers Ltd",5
+"0380715899","A Soldier of the Great War","Mark Helprin","1992","Avon Books",1
+"0553280333","Getting Well Again","O. Carol Simonton Md","1992","Bantam",3
+"0961769947","Northwest Wines and Wineries","Chuck Hill","1993","Speed Graphics",1
+"0964778319","An Atmosphere of Eternity: Stories of India","David Iglehart","2002","Sunflower Press",1
+"0671623249","LONESOME DOVE","Larry McMurtry","1986","Pocket",1
+"0679810307","Shabanu: Daughter of the Wind (Border Trilogy)","SUZANNE FISHER STAPLES","1991","Laurel Leaf",1
+"0679865691","Haveli (Laurel Leaf Books)","SUZANNE FISHER STAPLES","1995","Laurel Leaf",1
+"2070423204","Lieux dits","Michel Tournier","2002","Gallimard",1
+"0345260317","The Dragons of Eden: Speculations on the Evolution of Human Intelligence","Carl Sagan","1978","Ballantine Books",1
+"0394743741","The yawning heights","Aleksandr Zinoviev","1980","Random House",6
+"042511774X","Breathing Lessons","Anne Tyler","1994","Berkley Publishing Group",1
+"0804106304","The Joy Luck Club","Amy Tan","1994","Prentice Hall (K-12)",4
+"1853262404","Heart of Darkness (Wordsworth Collection)","Joseph Conrad","1998","NTC/Contemporary Publishing Company",1
+"0312970242","The Angel Is Near","Deepak Chopra","2000","St. Martin's Press",3
+"1853260053","Tess of the D'Urbervilles (Wordsworth Classics)","Thomas Hardy","1997","NTC/Contemporary Publishing Company",1
+"1414035004","The Adventures of Drew and Ellie: The Magical Dress","Charles Noland","2003","1stBooks Library",1
+"0060938412","The Accidental Virgin","Valerie Frankel","2003","Avon Trade",1
+"0140067477","The Tao of Pooh","Benjamin Hoff","1983","Penguin Books",5
+"0345465083","Seabiscuit","LAURA HILLENBRAND","2003","Ballantine Books",1
+"0451625889","The Prince","Niccolo Machiavelli","1952","Signet Book",3
+"1558531025","Life's Little Instruction Book (Life's Little Instruction Books (Paperback))","H. Jackson Brown","1991","Thomas Nelson",1
+"0441783589","Starship Troopers","Robert A. Heinlein","1987","Ace Books",17
+"1569871213","Black Beauty (Illustrated Classics)","Anna Sewell","1995","Landoll",2
+"0375410538","Anil's Ghost","MICHAEL ONDAATJE","2000","Knopf",1
+"0966986105","Prescription for Terror","Sandra Levy Ceren","1999","Andrew Scott Publishers",3
+"087113375X","Modern Manners: An Etiquette Book for Rude People","P.J. O'Rourke","1990","Atlantic Monthly Press",1
+"0340767936","Turning Thirty","Mike Gayle","2000","Hodder &amp",4
+"0743403843","Decipher","Stel Pavlou","2002","Simon &amp",1
+"0060177586","Standing Firm: A Vice-Presidential Memoir","Dan Quayle","1994","Harpercollins",1
+"0071416331","Team Bush : Leadership Lessons from the Bush White House","Donald F. Kettl","2003","McGraw-Hill",1
+"0375509038","The Right Man : The Surprise Presidency of George W. Bush","DAVID FRUM","2003","Random House",1
+"0553062042","Daybreakers Louis Lamour Collection","Louis Lamour","1981","Bantam Doubleday Dell",1
+"0316769487","The Catcher in the Rye","J.D. Salinger","1991","Little",2
+"8445071408","El Senor De Los Anillos: LA Comunidad Del Anillo (Lord of the Rings (Spanish))","J. R. R. Tolkien","2001","Minotauro",1
+"8445071769","El Senor De Los Anillos: Las DOS Torres (Lord of the Rings (Paperback))","J. R. R. Tolkien","2001","Minotauro",1
+"0679429220","Midnight in the Garden of Good and Evil: A Savannah Story","John Berendt","1994","Random House",1
+"0671867156","Pretend You Don't See Her","Mary Higgins Clark","1998","Pocket",3
+"0312252617","Fast Women","Jennifer Crusie","2001","St. Martin's Press",1
+"0312261594","Female Intelligence","Jane Heller","2001","St. Martin's Press",1
+"0316748641","Pasquale's Nose: Idle Days in an Italian Town","Michael Rips","2002","Back Bay Books",1
+"0316973742","The Gospel of Judas: A Novel","Simon Mawer","2002","Back Bay Books",4
+"0451166892","The Pillars of the Earth","Ken Follett","1996","Signet Book",1
+"0553347594","McDonald's: Behind the Arches","John F. Love","1995","Bantam",1
+"0671621009","Creating Wealth : Retire in Ten Years Using Allen's Seven Principles of Wealth!","Robert G. Allen","1986","Fireside",1
+"067976397X","Corelli's Mandolin : A Novel","LOUIS DE BERNIERES","1995","Vintage",6
+"0786868716","The Five People You Meet in Heaven","Mitch Albom","2003","Hyperion",1
+"8472238822","Tu Nombre Escrito En El Agua (La Sonrisa Vertical)","Irene Gonzalez Frei","2002","Tusquets",1
+"0671864769","Relics (Star Trek: The Next Generation)","Michael Jan Friedman","1992","Star Trek",1
+"0671521519","Bless The Beasts And Children : Bless The Beasts And Children","Glendon Swarthout","1995","Pocket",1
+"0312953453","Blood Oath","David Morrell","1994","St. Martin's Press",1
+"0446608653","The Alibi","Sandra Brown","2000","Warner Books",1
+"0446612545","The Beach House","James Patterson","2003","Warner Books",1
+"0446612618","A Kiss Remembered","Sandra Brown","2003","Warner Books",1
+"0451208080","The Short Forever","Stuart Woods","2003","Signet Book",1
+"0553584383","Dead Aim","IRIS JOHANSEN","2004","Bantam Books",1
+"0812575954","The Deal","Joe Hutsko","2000","Tor Books (Mm)",1
+"0316735736","All He Ever Wanted: A Novel","Anita Shreve","2004","Back Bay Books",5
+"0380619458","The Mosquito Coast","Paul Theroux","1990","Harper Mass Market Paperbacks (Mm)",1
+"0671042858","The Girl Who Loved Tom Gordon","Stephen King","2000","Pocket",1
+"0743249992","Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions","Ben Mezrich","2003","Free Press",1
+"0425184226","The Sum of All Fears","Tom Clancy","2002","Berkley Publishing Group",1
+"0375500766","Care Packages : Letters to Christopher Reeve from Strangers and Other Friends","DANA REEVE","1999","Random House",1
+"9724119378","O Deus Das Pequenas Coisas","Roy","1998","Edicoes Asa",4
+"0451205197","Lady in Green/Minor Indiscretions (Signet Regency Romance)","Barbara Metzger","2002","Signet Book",1
+"0060929790","One Hundred Years of Solitude","Gabriel Garcia Marquez","1998","Perennial",5
+"0060976845","Little Altars Everywhere: A Novel","Rebecca Wells","1996","Perennial",1
+"0061099325","Coyote Waits (Joe Leaphorn/Jim Chee Novels)","Tony Hillerman","1992","HarperTorch",3
+"0671004573","Before I Say Good-Bye","Mary Higgins Clark","2001","Pocket",1
+"0446601640","Slow Waltz in Cedar Bend","Robert James Waller","1994","Warner Books",1
+"0330484516","Twenty Minute Retreats: Revive Your Spirits in Just Minutes a Day (A Pan Self-discovery Title)","Rachel Harris","2001","Pan Macmillan",1
+"038572179X","Atonement : A Novel","IAN MCEWAN","2003","Anchor",1
+"0393020371","Next: The Future Just Happened","Michael Lewis","2001","W.W. Norton &amp",1
+"1900850303","The Angelic Darkness","Richard Zimler","1999","Arcadia Books",1
+"1903019699","The Soulbane Stratagem","Norman Jetmundsen","2000","John Hunt Publishing",1
+"0345425294","Gangster","Lorenzo Carcaterra","2002","Fawcett Books",6
+"0451410319","Hush","Anne Frasier","2002","Onyx Books",1
+"8420639133","Temor y Temblor","Soren Kierkegaard","2001","Alianza",1
+"8476409419","Estudios sobre el amor","Jose Ortega Y Gaset","2001","Downtown Book Center",3
+"0380778556","Rebecca","Daphne Du Maurier","1994","Avon",1
+"0451525221","Scarlet Letter","Nathaniel Hawthorne","1993","Signet Book",1
+"0002740230","Keep It Simple: And Get More Out of Life","Nick Page","1999","Trafalgar Square",1
+"0385336772","Diary of a Mad Mom-To-Be","Laura Wolf","2003","Delta",5
+"0440949424","Locked in Time (Laurel Leaf Books)","LOIS DUNCAN","1986","Laure Leaf",1
+"0505524996","Contact","Susan Grant","2002","Love Spell",3
+"0140252800","The Brimstone Wedding","Barbara Vine","1997","Penguin Books Ltd",1
+"0451452755","The Catswold Portal","Shirley Rousseau Murphy","1993","Roc",17
+"0812575482","Through Wolf's Eyes (Wolf)","Jane Lindskold","2002","Tor Fantasy",1
+"044651747X","Puerto Vallarta Squeeze","Robert James Waller","1995","Warner Books",2
+"0060801263","Tree Grows In Brooklyn","Betty Smith","1988","Harpercollins Publisher",1
+"0140250964","Snow Angels","Stewart O'Nan","1995","Penguin Books",1
+"0446527165","Wish You Well","David Baldacci","2000","Warner Books",4
+"0671461494","The Hitchhiker's Guide to the Galaxy","Douglas Adams","1982","Pocket",1
+"0385337639","Crow Lake (Today Show Book Club #7)","Mary Lawson","2003","Delta",2
+"039575514X","My Antonia","Willa Cather","1995","Mariner Books",1
+"0451206673","Pen Pals","Olivia Goldsmith","2002","Signet Book",1
+"0330332775","Bridget Jones's Diary","Helen Fielding","1997","Picador (UK)",1
+"0486284735","Pride and Prejudice (Dover Thrift Editions)","Jane Austen","1995","Dover Publications",1
+"0671021745","EYE ON CRIME: HARDY BOYS #153","Franklin W. Dixon","1998","Aladdin",2
+"0671047612","Skin And Bones","Franklin W. Dixon","2000","Aladdin",1
+"0399138684","The Cat Who Came to Breakfast (Cat Who... (Hardcover))","Lilian Jackson Braun","1994","Putnam Pub Group",1
+"0830714014","Always Daddy's Girl: Understanding Your Father's Impact on Who You Are","H. Norman Wright","1989","Regal Books",3
+"0345354931","Night Mare (Xanth Novels (Paperback))","Piers Anthony","1990","Del Rey Books",1
+"0553278223","The Martian Chronicles","RAY BRADBURY","1984","Spectra",1
+"3150000335","Kabale Und Liebe","Schiller","0","Philipp Reclam",1
+"3257203659","Der illustrierte Mann. Erz�?¤hlungen.","Ray Bradbury","2002","Diogenes",4
+"3257207522","Der K�?¶nig in Gelb.","Raymond Chandler","1980","Diogenes Verlag",1
+"3257208626","Fahrenheit 451","Ray Bradbury","1994","Distribooks Inc",1
+"3257208634","Die Mars- Chroniken. Roman in Erz�?¤hlungen.","Ray Bradbury","1981","Diogenes Verlag",1
+"3257208669","Das B�?¶se kommt auf leisen Sohlen.","Ray Bradbury","2003","Diogenes",1
+"3257210450","L�?¶wenzahnwein. Roman.","Ray Bradbury","1999","Diogenes Verlag",1
+"3257212054","Das Kind von morgen. Erz�?¤hlungen.","Ray Bradbury","2000","Diogenes Verlag",6
+"3257212429","Die Mechanismen der Freude. Erz�?¤hlungen.","Ray Bradbury","2000","Diogenes Verlag",1
+"3257214154","Familientreffen. Erz�?¤hlungen.","Ray Bradbury","2000","Diogenes Verlag",1
+"3257216416","Der Tod kommt schnell in Mexico. Erz�?¤hlungen.","Ray Bradbury","1988","Diogenes Verlag",1
+"3257233051","Veronika Deschliesst Zu Sterben / Vernika Decides to Die","Paolo Coelho","2002","Distribooks",1
+"342311360X","Die Liebe in Den Zelten","Gabriel Garcia Marquez","0","Deutscher Taschenbuch Verlag (DTV)",1
+"3423116714","Die Klone der Joanna May. Roman.","Fay Weldon","1993","Dtv",7
+"3423241489","Ist mein Hintern wirklich so dick? Tagebuch einer empfindsamen Frau.","Arabella Weir","1998","Dtv",1
+"3426605686","Haifischfrauen.","Kiana Davenport","1996","Droemersche Verlagsanstalt Th. Knaur Nachf.",1
+"3453212150","Die Cappuccino- Jahre. Aus dem Tagebuch des Adrian Mole.","Sue Townsend","2002","Heyne",1
+"3462021095","Schwarzer Tee mit drei Stück Zucker","Renan Demirkan","1991","Kiepenheuer &amp",1
+"3492045642","Quersch�?¼sse - Downsize This!","Michael Moore","2003","Piper",1
+"3498020862","Die Korrekturen.","Jonathan Franzen","2002","Rowohlt",1
+"3499110695","Neun Erz�?¤hlungen.","Jerome D. Salinger","1968","Rowohlt Tb.",1
+"3548254268","Eine ganz normale Aff�?¤re.","Joanna Trollope","2002","Ullstein Tb",1
+"3596292646","Das Buch der l�?¤cherlichen Liebe.","Milan Kundera","2000","Fischer (Tb.)",1
+"0060977493","The God of Small Things","Arundhati Roy","1998","Perennial",4
+"0316602906","The Big Bad Wolf: A Novel","James Patterson","2003","Little",1
+"0316693006","Four Blind Mice","James Patterson","2002","Little",1
+"0345311396","Private Screening","Richard North Patterson","1994","Ballantine Books",1
+"0345378490","Congo","Michael Crichton","1995","Ballantine Books",1
+"0345404793","Protect and Defend","Richard North Patterson","2001","Ballantine Books",1
+"0345433173","The Tall Pine Polka","Lorna Landvik","1999","Ballantine Books",4
+"0375400117","Memoirs of a Geisha","Arthur Golden","1997","Alfred A. Knopf",1
+"0375705856","Plainsong (Vintage Contemporaries)","KENT HARUF","2000","Vintage",5
+"0380717018","Body of Evidence (Kay Scarpetta Mysteries (Paperback))","Patricia D. Cornwell","1992","Avon",1
+"0380718332","All That Remains (Kay Scarpetta Mysteries (Paperback))","Patricia D. Cornwell","1993","Avon",3
+"0380754509","The Case of the Lost Look-Alike (An Avon Camelot Book)","Carol J. Farley","1988","Avon Books",1
+"038076654X","Petals on the River","Kathleen E. Woodiwiss","1997","Avon Trade",1
+"0380807866","The Elusive Flame","Kathleen E. Woodiwiss","1999","Avon",1
+"0385316895","Legacy of Silence","Belva Plain","1998","Bantam Dell Pub Group",1
+"0385497466","The Brethren","JOHN GRISHAM","2000","Doubleday",1
+"0385508042","The King of Torts","John Grisham","2003","Doubleday Books",1
+"0385509456","The Curious Incident of the Dog in the Night-Time : A Novel","MARK HADDON","2003","Doubleday",1
+"0385511612","Bleachers","John Grisham","2003","Doubleday",6
+"0385730586","Sisterhood of the Traveling Pants","ANN BRASHARES","2003","Delacorte Books for Young Readers",1
+"0425164403","Only Love (Magical Love)","Erich Segal","1998","Berkley Publishing Group",4
+"0440234964","All or Nothing (Wheeler Large Print Books)","Elizabeth Adler","2000","Island",1
+"0446605484","Roses Are Red (Alex Cross Novels)","James Patterson","2001","Warner Vision",3
+"0446610399","The Rescue","Nicholas Sparks","2001","Warner Books",1
+"0449006522","Manhattan Hunt Club","JOHN SAUL","2002","Ballantine Books",1
+"0449911004","Patty Jane's House of Curl (Ballantine Reader's Circle)","LORNA LANDVIK","1996","Ballantine Books",1
+"0451162072","Pet Sematary","Stephen King","1994","Signet Book",5
+"0451186648","Silent Snow","Steve Thayer","2000","Signet Book",1
+"0452282152","Girl with a Pearl Earring","Tracy Chevalier","2001","Plume Books",3
+"051513290X","Summer of Storms","Judith Kelman","2002","Jove Books",1
+"0553580388","The Patient","Michael Palmer","2001","Bantam Books",17
+"0590629719","Clifford's Sports Day","Norman Bridwell","1996","Scholastic",1
+"0671023616","Postmortem (Kay Scarpetta Mysteries (Paperback))","Patricia Cornwell","1998","Pocket",3
+"0671027387","Deception Point","Dan Brown","2002","Pocket",1
+"0684848783","Tis : A Memoir","Frank McCourt","1999","Scribner",4
+"0786863986","A Monk Swimming","Malachy McCourt","1998","Hyperion",2
+"0803251718","Crazy Horse","Mari Sandoz","1961","University of Nebraska Press",1
+"0804117934","The Silent Cry (William Monk Novels (Paperback))","Anne Perry","1998","Ivy Books",1
+"140003180X","The Kalahari Typing School for Men (No. 1 Ladies' Detective Agency)","ALEXANDER MCCALL SMITH","2004","Anchor",1
+"155874262X","Chicken Soup for the Soul (Chicken Soup for the Soul)","Jack Canfield","1993","Health Communications",1
+"0060987103","Wicked: The Life and Times of the Wicked Witch of the West","Gregory Maguire","1996","Regan Books",2
+"0151008116","Life of Pi","Yann Martel","2002","Harcourt",1
+"0375704965","A Judgement in Stone","Ruth Rendell","2000","Vintage Books USA",1
+"0525947647","Lies and the Lying Liars Who Tell Them: A Fair and Balanced Look at the Right","Al Franken","2003","Dutton Books",1
+"0804111359","Secret History","DONNA TARTT","1993","Ballantine Books",1
+"1558744150","Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series (Paper))","Jack Canfield","1996","Health Communications",3
+"0435272683","Great Expectations (Heinemann Guided Readers)","John Milne","1995","Delta Systems",1
+"0316782505","The Weight of Water","Anita Shreve","2001","Little",1
+"006102063X","Moving Pictures (Discworld Novels (Paperback))","Terry Pratchett","2002","HarperTorch",1
+"0060013117","Night Watch","Terry Pratchett","2002","HarperCollins",4
+"0060199563","Thief of Time","Terry Pratchett","2001","HarperCollins Publishers",1
+"006052779X","Charlotte's Web Book and Charm (Charming Classics)","E. B. White","2003","HarperFestival",1
+"0060563079","Peter Pan: The Original Story (Peter Pan)","J. M. Barrie","2003","HarperFestival",1
+"0060809027","My Friend Flicka","Mary O'Hara","1988","Perennial",1
+"0061040967","The Last Hero : A Discworld Fable (Discworld Novels (Hardcover))","Terry Pratchett","2001","HarperCollins",1
+"0061050474","Jingo: A Discworld Novel (Discworld Series/Terry Pratchett)","Terry Pratchett","1998","HarperPrism",6
+"0061052515","Maskerade: A Novel of Discworld (Pratchett", Terry. Discworld Series (New York," N.Y.).)","Terry Pratchett",1
+"0061052523","Interesting Times: A Novel of Discworld","Terry Pratchett","1997","Harpercollins",1
+"0140620664","Mansfield Park (Penguin Popular Classics)","Jane Austen","1994","Penguin Books Ltd",1
+"0312148267","The Wind in the Willows","Kenneth Grahame","1996","St. Martin's Press",1
+"0312156960","The Winter King: A Novel of Arthur (The Warlord Chronicles: I)","Bernard Cornwell","1997","St. Martin's Griffin",7
+"0312890044","Moonheart (Newford)","Charles de Lint","1994","Orb Books",1
+"034543191X","The King of Elfland's Daughter (Del Rey Impact)","Edward John Moreton Drax Plunkett Dunsany","1999","Del Rey Books",1
+"0373836023","Powder and Patch","Georgette Heyer","2004","Harlequin",1
+"0375751513","The Picture of Dorian Gray (Modern Library (Paperback))","OSCAR WILDE","1998","Modern Library",1
+"0375801677","The Iron Giant","Ted Hughes","1999","Knopf Books for Young Readers",1
+"0375814248","James and the Giant Peach","ROALD DAHL","2002","Knopf Books for Young Readers",1
+"0380973839","Martian Chronicles","Ray Bradbury","1997","William Morrow",3
+"0385327773","The Great God Pan","Donna Jo Napoli","2003","Wendy Lamb Books",1
+"0394586239","Possession: A Romance","A. S. Byatt","1990","Random House Inc",4
+"0439510112","Born Confused","Tanuja Desai Hidier","2003","Push",1
+"0440241413","Confessions of a Shopaholic","SOPHIE KINSELLA","2003","Dell",1
+"0451409256","Making Minty Malone","Isabel Wolff","2000","Onyx Books",1
+"0451523415","Little Women (Signet Classic)","Louisa May Alcott","1988","Signet Classics",1
+"0451526279","Emma (Signet Classics (Paperback))","Jane Austen","1996","Signet Classics",1
+"0451526341","Animal Farm","George Orwell","2004","Signet",1
+"0486415864","Great Expectations (Dover Thrift Editions)","Charles Dickens","2001","Dover Publications",4
+"0553280589","Eva Luna","Isabel Allende","1989","Bantam Books",1
+"0571197639","Poisonwood Bible Edition Uk","Barbara Kingsolver","0","Faber Faber Inc",5
+"0670035262","The Green Man : Tales from the Mythic Forest","Ellen Datlow","2002","Viking Juvenile",1
+"0679423079","Nicholas Nickleby (Everyman's Library)","Charles Dickens","1993","Alfred A. Knopf",3
+"0684833395","Catch 22","Joseph Heller","1996","Simon &amp",1
+"0743245024","The Forsyte Saga : The Man of Property and In Chancery","John Galsworthy","2002","Touchstone",1
+"0749748001","The Enchanted Wood","Enid Blyton","2002","Egmont Childrens Books",1
+"0749748028","The Folk of the Faraway Tree","Enid Blyton","2002","Egmont Childrens Books",1
+"0963094424","Angels and Visitations: A Miscellany","Neil Gaiman","1993","Dreamhaven Books",1
+"156971620X","Harlequin Valentine","Neil Gaiman","2002","Dark Horse Comics",4
+"1592571301","Alpha Teach Yourself American Sign Language in 24 Hours (Alpha Teach Yourself in 24 Hours)","Trudy Suggs","2003","Alpha Books",1
+"0374270325","A Man in Full","Tom Wolfe","1998","Farrar Straus &amp",3
+"0375719180","The Miracle Life of Edgar Mint: A Novel","Brady Udall","2002","Vintage Books USA",1
+"0440235502","October Sky: A Memoir","Homer Hickam","1999","Dell",1
+"044023722X","A Painted House","John Grisham","2001","Dell Publishing Company",1
+"1573225487","The Romance Reader","Pearl Abraham","1996","Riverhead Books",5
+"1853260673","Far from the Madding Crowd (Wordsworth Classics)","Thomas Hardy","1997","NTC/Contemporary Publishing Company",1
+"0060977477","The Perfect Storm : A True Story of Men Against the Sea","Sebastian Junger","1999","Perennial",3
+"0345391691","The Battle for God","Karen Armstrong","2001","Ballantine Books",1
+"0520011171","Sappho: A New Translation","Mary Barnard","1958","University of California Press",17
+"0553278746","The Postman (Bantam Classics)","David Brin","1990","Spectra Books",1
+"0670856045","The Tortilla Curtain","T. Coraghessan Boyle","1995","Viking Books",2
+"0872200760","Symposium","Paul Woodruff","1989","Hackett Pub Co Inc",1
+"0937858994","The What's Happening to My Body? Book for Boys: A Growing Up Guide for Parents and Sons","Lynda Madaras","1987","W W Norton &amp",3
+"0671649949","OBJECT AFFECTION","Stephen McCauley","1988","Washington Square Press",1
+"0590431110","The Journey Home","Isabelle Holland","1993","Scholastic Paperbacks (Mm)",4
+"0064470113","Taking the Ferry Home","Pam Conrad","1990","Harpercollins Juvenile Books",1
+"0553571486","Angel of Hope (Mercy Trilogy)","Lurlene McDaniel","2000","Starfire",2
+"0972044205","The Breach","Brian Kaufman","2002","Last Knight Pub Co",1
+"0312963009","Neanderthal: A Novel","John Darnton","1997","St. Martin's Press",1
+"0345430476","A Small Dark Place","Martin Schenk","1999","Ballantine Books",1
+"0345435869","The Rivan Codex : Ancient Texts of THE BELGARIAD and THE MALLOREON","DAVID EDDINGS","1999","Del Rey",1
+"0380728729","Babyhood","Paul Reiser","1998","Avon",2
+"038081840X","Year's Best Fantasy (Year's Best Fantasy)","David G. Hartwell","2001","Eos",1
+"0449912302","Dave Barry in Cyberspace","Dave Barry","1997","Ballantine Books",1
+"055329198X","Wolf Moon","John R. Holt","1997","Bantam",1
+"0671018930","The War in Heaven (Eternal Warriors)","Theodore Beale","2000","Pocket",1
+"0812541642","Waiting","Frank M. Robinson","2000","Tor Books",3
+"0312988699","Nowhere To Run","Mary Jane Clark","2004","St. Martin's Paperbacks",1
+"0486282112","Frankenstein (Dover Thrift Editions)","Mary Wollstonecraft Shelley","1994","Dover Publications",1
+"8483007010","El gust amarg de la cervesa (Collecció Clàssica)","Isabel-Clara Simó","1999","Columna",1
+"0670815373","Urn Burial","Robert Westall","1987","Viking Children's Books",4
+"0385313748","All Our Yesterdays (Large Print)","Robert B. Parker","1994","Delacorte Press",1
+"1575843366","What Shall I Be (Barbie Carryalong)","Rita Chapman Works","1999","Reader's Digest",1
+"0684193957","ALL THAT REMAINS","Patricia Cornwell","1992","Scribner",1
+"0345371984","Last Chance to See","Douglas Adams","1992","Ballantine Books",1
+"0380730138","Vinegar Hill (Oprah's Book Club (Paperback))","A. Manette Ansay","1998","Perennial",1
+"1573228737","Affinity","Sarah Waters","2002","Riverhead Books",6
+"9681500555","Diario de Ana Frank","Anne Frank","2000","Editores Mexicanos Unidos",1
+"0380711109","Desert Notes/River Notes","Barry Lopez","1990","Quill (HarperCollins)",1
+"0425120279","The Hunt for Red October","Tom Clancy","1990","Berkley Publishing Group",1
+"067153484X","The Music Box","Andrea Kane","1998","Pocket",1
+"0380728273","Liberty Falling (Anna Pigeon Mysteries (Paperback))","Nevada Barr","2000","Avon",7
+"8433914545","El Palacio de La Luna","Paul Auster","1996","Anagrama",1
+"8484509141","Mientras Escribo","Stephen King","2002","Distribooks",1
+"0446606197","Killer Market (Deborah Knott Mysteries (Paperback))","Margaret Maron","1999","Warner Books",1
+"0771076002","Remembering Peter Gzowski : A Book of Tributes","EDNA BARKER","2002","Douglas Gibson Books",1
+"0771088191","The Best Canadian Animal Stories: Classic Tales by Master Storytellers","Muriel Whitaker","1997","McClelland &amp",1
+"1559703237","Trying to Save Piggy Sneed","John Irving","1996","Arcade Publishing",1
+"0062770500","Seattle Access","HarperReference","1993","Access Press (HarperCollins)",1
+"0671847546","REAL GUIDE: CALIFORNIA AND THE WEST COAST (The Real guides)","LTD","1993","John Wiley &amp",5
+"0060188731","Bel Canto","Ann Patchett","2001","HarperCollins Publishers",1
+"0140374248","James and the Giant Peach","Roald Dahl","2000","Penguin USA (Paper)",3
+"0142001740","The Secret Life of Bees","Sue Monk Kidd","2003","Penguin Books",1
+"0195086295","What a Wonderful World: A Lifetime of Recordings","Bob Thiele","1995","Oxford University Press",4
+"0312995423","Digital Fortress : A Thriller","Dan Brown","2003","St. Martin's Press",1
+"0380704587","The Ladies of Missalonghi","Colleen McCullough","1988","Avon",1
+"0380815923","Blackberry Wine : A Novel","Joanne Harris","2001","Perennial",1
+"0385416342","The Firm","John Grisham","1991","Doubleday Books",1
+"0385418493","How the Irish Saved Civilization: The Untold Story of Ireland's Heroic Role from the Fall of Rome to the Rise of Medieval Europe (Hinges of History)","Thomas Cahill","1996","Anchor",1
+"038542471X","The Client","John Grisham","1993","Doubleday Books",1
+"0425098109","Thieves of Light (Photon : the Ultimate Game on Planet Earth)","Michael Hudson","1987","Berkley Publishing Group",4
+"0449005410","Horse Heaven (Ballantine Reader's Circle)","Jane Smiley","2001","Ballantine Books",1
+"0449202631","Danger","Dick Francis","1985","Fawcett Books",5
+"0449207544","Proof","Dick Francis","1990","Fawcett Books",1
+"0515128554","Heart of the Sea (Irish Trilogy)","Nora Roberts","2000","Jove Books",3
+"0517577402","Mostly Harmless","Douglas Adams","1992","Random House Inc",1
+"0590450875","I Spy: A Book of Picture Riddles","Jean Marzollo","1992","Scholastic",1
+"0590481371","I Spy Spooky Night: A Book of Picture Riddles (I Spy Books)","Walter Wick","1996","Scholastic",1
+"067103619X","Lake News","Barbara Delinsky","2000","Pocket",1
+"0684177730","The SKULL BENEATH THE SKIN","P. D. James","1982","Scribner",1
+"0684180200","NEW SHOE","Arthur William Upfield","1983","Scribner Paper Fiction",1
+"0743411269","An Accidental Woman","Barbara Delinsky","2003","Pocket Books",1
+"0743470389","The Snow Garden","Christopher Rice","2004","Pocket Star",6
+"076218857X","The Doorbell Rang (The Best Mysteries of All Time)","Rex Stout","2000","Readers Digest Assn",1
+"0767905938","A Year by the Sea: Thoughts of an Unfinished Woman","Joan Anderson","2000","Broadway Books",4
+"0800706544","Though I walk through the valley","Vance Havner","1974","F. H. Revell",1
+"0801096677","Victorious Christians You Should Know","Warren W. Wiersbe","1984","Baker Book House",3
+"0849953014","Life Lessons: Book Of Hebrews","Max Lucado","1997","W Publishing Group",1
+"0891091963","Inside out","Lawrence J Crabb","1988","NavPress",1
+"0915811537","Son Rise: The Miracle Continues","Barry Neil Kaufman","1994","Pub Group West",1
+"0927545373","Unveiled at Last","Bob Sjogren","1988","YWAM Publishing",5
+"1575024179","The Day I Almost Quit","Frederick J. Moody","1997","F.J. Moody",1
+"0140345809","House of Stairs","William Sleator","1991","Puffin Books",1
+"0156528207","The Little Prince","Antoine de Saint-Exupéry","1968","Harcourt",17
+"0380012863","Jonathan Livingston Seagull","Richard Bach","1976","Avon",1
+"0451154916","The Crystal Handbook","Kevin Sullivan","1996","Signet Book",2
+"0785815147","Simple Wicca (Simple Wisdom Book)","Michele Morgan","2002","Castle Books",1
+"156718796X","Astral Travel for Beginners (For Beginners)","Richard Webster","1998","Llewellyn Publications",1
+"1862047626","New Perspectives: Runes","Bernard King","2000","Harper Collins - UK",2
+"0020437501","Rosie'S Walk","Pat Hutchins","1971","Aladdin",1
+"0198320264","Julius Caesar (Oxford School Shakespeare)","William Shakespeare","2001","Oxford University Press",1
+"0451527747","Alice's Adventures in Wonderland and Through the Looking Glass","Lewis Carroll","2000","Signet Classics",2
+"0671867113","Moonlight Becomes You","Mary Higgins Clark","1997","Pocket",1
+"0812504208","The Adventures of Tom Sawyer","Mark Twain","1989","Tor Books",1
+"0060173289","Divine Secrets of the Ya-Ya Sisterhood : A Novel","Rebecca Wells","1996","HarperCollins",1
+"0060973897","Lakota Woman","Dog Mary Crow","1991","Perennial",1
+"006101351X","The Perfect Storm : A True Story of Men Against the Sea","Sebastian Junger","1998","HarperTorch",3
+"0312143370","The Florence King Reader","Florence King","1996","St. Martin's Press",1
+"0316666343","The Lovely Bones: A Novel","Alice Sebold","2002","Little",1
+"039456894X","Impossible Vacation","Spalding Gray","1992","Random House Inc",4
+"0440224675","Hannibal","Thomas Harris","2000","Dell Publishing Company",1
+"0449002632","London : The Novel","EDWARD RUTHERFURD","1998","Fawcett",1
+"0449213773","Life Before Man","Margaret Atwood","1990","Fawcett Books",1
+"0452279690","Cavedweller","Dorothy Allison","1999","Plume Books",1
+"0553569058","The Robber Bride","Margaret Atwood","1995","Bantam",1
+"0679427430","Wouldn't Take Nothing for My Journey Now","MAYA ANGELOU","1993","Random House",6
+"0679725393","The House of Mirth (Library of America)","Edith Wharton","1990","Vintage Books USA",1
+"0802114369","Ohitika Woman","Mary Brave Bird","1993","Pub Group West",1
+"0803233019","Black Elk Speaks: Being the Life Story of a Holy Man of the Oglala Sioux","John G. Neihardt","1988","University of Nebraska Press",1
+"0819154946","The Community in America","Roland Warren","1987","University Press of America",1
+"0940322978","Mawrdew Czgowchwz (New York Review Books Classics)","James McCourt","2002","New York Review of Books",7
+"1573225126","Prozac Nation: Young and Depressed in America : A Memoir","Elizabeth Wurtzel","1997","Riverhead Books",1
+"1579651658","The Journey From Here","Bill Bradley","2000","Artisan Publishers",1
+"1878424319","The Four Agreements: A Practical Guide to Personal Freedom","Don Miguel Ruiz","1997","Amber-Allen Publishing",1
+"8401351421","El desarrollo de Leonardo da Vinci (Biografías y memorias)","Luis Racionero","1986","Plaza &amp",1
+"8423324311","Gastronomia divina (L'áncora)","Eugeni Perea Simón","1994","Destino",1
+"8427007450","Desaparecido: LA Autentica Historia De LA Ejecucion De Charles Horman","Thomas Hauser","1982","Lectorum Pubns (J)",1
+"8429734996","Hotel Europa (El Balancí)","Vicenç Villatoro","1992","Edicions 62",1
+"8429736131","La dona dels ulls de pluja: Barcelona anys 90 (El Balancí)","Víctor Mora","1993","Edicions 62",1
+"8440616252","El paraíso (Tiempos modernos)","Elena Castedo","1991","Editiones B",5
+"8472224260","Negra i consentida (Col¨lecció El Mirall)","Ofèlia Dracs","1983","Laia",1
+"8472227421","Essa efa (Col¨lecció El Mirall i el temps)","Ofèlia Dracs","1985","Editorial Laia",6
+"8474103347","Espurnes de sang (La Negra)","Antoni Serra","1987","Edicions de la Magrana",2
+"8475960936","Les llengües d'Africa (Biblioteca universal Empúries)","M. Carme Junyent","1986","Editorial Empúries",1
+"8477830029","Trànsit (Area contemporània)","Jaume Capó","1987","Area",3
+"8478091246","L'home del sac","Màrius Serra","1990","Columna",1
+"8478097732","Gràcies per la propina (Columna)","Ferran Torrent","1995","Columna",4
+"8478098267","El dia que es va cremar el Liceu (La primera Columna)","Joan Agut","1995","Columna",1
+"8478800336","Cómo ser una mujer y no morir en el intento (Colección El Papagayo)","Carmen Rico-Godoy","1990","Ediciones Temas de Hoy",2
+"8478884963","Una casa en Irlanda","Maeve Binchy","1999","Salamandra",1
+"8483002523","La mirada del tafur (Col¨lecció clàssica)","Ferran Torrent","1997","Columna",1
+"8486433193","Amorrada al piló (Columna)","Maria Jaén","1986","Columna",1
+"0600586898","Blur (Melody Maker)","Paul Lester","1995","Hal Leonard Corp",1
+"1853260622","War and Peace (Wordsworth Classics)","Leo Tolstoy","1997","NTC/Contemporary Publishing Company",2
+"1857938011","A-Z of Behaving Badly","Simon Nye","1996","Trafalgar Square",1
+"0060804157","He Understanding Masculine Psychology","Robert A Johnson","1977","Harpercollins Publisher",1
+"8466601090","Las DOS Muertes De Gardel (Ficcionario)","Horacio Vazquez-Rial","2002","Ediciones B",1
+"0140382658","You Can Surf the Net: Your Guide to the World of the Internet","Marc Gascoigne","1996","Puffin Books",1
+"0152012966","I Want to Be...a Veterinarian (I Want to Be... Series)","Stephanie Maze","1997","Harcourt",3
+"0312283784","Alice's Tulips","Sandra Dallas","2001","St. Martin's Griffin",1
+"0345297709","Centaur Aisle","Piers Anthony","1982","Ballantine Books",1
+"0345313097","Crewel Lye","Piers Anthony","1985","Ballantine Books",1
+"0345335465","Dragonflight (Dragonriders of Pern Trilogy (Paperback))","Anne McCaffrey","1991","Del Rey Books",4
+"0345416848","Last Sword of Power (Stones of Power)","David Gemmell","1997","Del Rey Books",1
+"0385333404","Dating Big Bird","Laura Zigman","2000","Dial Books",1
+"044021145X","The Firm","John Grisham","1992","Bantam Dell Publishing Group",1
+"0449212084","Murder at the Kennedy Center (Capital Crime Mysteries)","Margaret Truman","1990","Fawcett Books",1
+"0590947257","Forever Amber Brown (Amber Brown (Paperback))","Paula Danziger","1997","Jump at the Sun",6
+"074345829X","Philip Jose Farmer's The Dungeon","Richard A. Lupoff","2003","I Books",1
+"0786913878","Pool of Radiance: The Ruins of Myth Drannor (Forgotten Realms)","Carrie Bebris","2001","Wizards of the Coast",1
+"0816729913","Why Are Boys So Weird (Tales from Third Grade)","Candice F. Ransom","1993","Troll Communications Llc",1
+"0866119531","Black Beauty (Great Illustrated Classics (Playmore))","Anna Sewell","2000","Playmore Inc. Publishers",7
+"0866119566","Oliver Twist (Great Illustrated Classics)","Charles Dickens","1989","Playmore Inc. Publishers",1
+"0870441663","The wild ponies of Assateague Island (Books for young explorers)","Donna K Grosvenor","1975","National Geographic Society",1
+"1561561428","Frankenstein (Illustrated Classics Series)","Mary Wollstonecraft Shelley","1992","Kidsbooks.Com",1
+"0553210092","The Scarlet Letter","NATHANIEL HAWTHORNE","1965","Bantam",1
+"0553258524","Dragonsong (Harper Hall Trilogy)","Anne McCaffrey","1977","Bantam",1
+"0688163726","The Watch House","Robert Westall","1998","HarperTrophy",1
+"1569471096","Was It Something I Said?","Valerie Block","1998","Soho Press",1
+"055358099X","Cloud Nine","Luanne Rice","2000","Bantam Books",1
+"0316168815","The Lovely Bones","Alice Sebold","2004","Back Bay Books",5
+"014023828X","The Tortilla Curtain","T. Coraghessan Boyle","1996","Penguin Books",1
+"0316314927","Sarah Conley","Ellen Gilchrist","1998","Back Bay Books",3
+"0345424719","A Widow for One Year","JOHN IRVING","1999","Ballantine Books",1
+"0375414746","The Clearing","TIM GAUTREAUX","2003","Knopf",4
+"0375726403","Empire Falls","Richard Russo","2002","Vintage Books USA",1
+"0385503857","Oryx and Crake","Margaret Atwood","2003","Nan A. Talese",1
+"0425156842","Sophie's World: A Novel About the History of Philosophy (Berkeley Signature Edition)","Jostein Gaarder","1997","Berkley Publishing Group",1
+"0440226104","Black and Blue","ANNA QUINDLEN","1999","Dell",1
+"0452277337","Le Divorce (William Abrahams Book)","Diane Johnson","1997","Plume Books",1
+"0553802488","The Face","DEAN KOONTZ","2003","Bantam",1
+"0671021001","She's Come Undone (Oprah's Book Club)","Wally Lamb","1998","Pocket",4
+"0767903579","Falling Leaves: The True Story of an Unwanted Chinese Daughter","Adeline Yen Mah","1999","Broadway Books",1
+"0805063897","Nickel and Dimed: On (Not) Getting By in America","Barbara Ehrenreich","2002","Owl Books",5
+"0486285529","Solv-A-Crime Puzzles (Dover Game and Puzzle Activity Books)","A. C. Gordon","1995","Dover Publications",1
+"0671002481","The First Wives Club Movie Tie In","Olivia Goldsmith","1996","Pocket",1
+"0812523385","Selected Poems of Emily Dickinson","Emily Dickinson","1995","Tor Books",1
+"0895774666","Watercolor School (Reader's Digest Learn-As-You-Go Guides)","Hazel Harrison","1993","Readers Digest",1
+"0020199090","Joshua In the Holy Land","Joseph Girzone","1993","Simon Schuster Trade",1
+"0385495145","The Messenger","JOSEPH GIRZONE","2002","Image",1
+"0679733825","Sisters of the Earth: Women's Prose and Poetry About Nature","Lorraine Anderson","1991","Vintage Books USA",1
+"0842329129","Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1)","Tim Lahaye","1996","Tyndale House Publishers",6
+"0345451260","Househusband","AD HUDLER","2002","Ballantine Books",1
+"0740700235","Life Messages: Inspiration For The Woman's Spirit","Josephine Carlton","2002","Andrews McMeel Publishing",4
+"0380973545","Letters from a Nut","Ted L. Nancy","1999","William Morrow",1
+"0393321576","Karl Marx: A Life","Francis Wheen","2001","W.W. Norton &amp",3
+"0743424425","The Shining","Stephen King","2001","Pocket",1
+"0786868015","The Diary of Ellen Rimbauer: My Life at Rose Red","Joyce Reardon","2001","Hyperion",1
+"0446610178","The Sky Is Falling","Sidney Sheldon","2001","Warner Books",1
+"0684854953","Santa Pete : A Novel Of Christmas Present And Past","Christopher Moore","1998","Simon &amp",5
+"0743229878","Mount Vernon Love Story : A Novel of George and Martha Washington","Mary Higgins Clark","2002","Simon &amp",1
+"0380617625","The Kingdom: Arabia and the House of Sa'Ud","Robert Lacey","1983","Harper Mass Market Paperbacks (Mm)",3
+"0380732335","Florida Road Kill: A Novel","Tim Dorsey","2000","HarperTorch",1
+"0385337132","The 37th Hour","JODI COMPTON","2003","Delacorte Press",17
+"0440235057","Be Cool","Elmore Leonard","2000","Dell Publishing Company",1
+"0445402040","The Hunted","Elmore Leonard","1986","Warner Books (Mm)",2
+"0618119760","The Saints of Big Harbour: A Novel","Lynn Coady","2002","Houghton Mifflin Company",1
+"0871138646","Old Flames","John Lawton","2003","Atlantic Monthly Press",3
+"0026329859","From the Earth: Chinese Vegetarian Cooking","Eileen Yin-Fei Lo","1995","MacMillan Publishing Company.",1
+"0060621257","Living in the Presence: Disciplines for the Spiritual Heart","Tilden H. Edwards","1988","Harpercollins",4
+"0060915544","The Bean Trees","Barbara Kingsolver","1989","Perennial",1
+"0060917016","Homeland and Other Stories","Barbara Kingsolver","1990","Perennial",2
+"0060932759","Daughter of Fortune","Isabel Allende","2000","Perennial",1
+"0061000280","The Fly on the Wall","Tony Hillerman","1990","HarperTorch",1
+"0192815318","Cranford (The World's Classics)","Elizabeth Gaskell","1982","Oxford University Press",1
+"0312195516","The Red Tent (Bestselling Backlist)","Anita Diamant","1998","Picador USA",2
+"0380792664","The Right Hand of Amon","Lauren Haney","1997","Avon",1
+"0393048977","Last Blue: Poems","Gerald Stern","2000","W.W. Norton &amp",1
+"0399137807","The Cat Who Wasn't There","Lilian Jackson Braun","1992","Putnam Pub Group",1
+"039914739X","Isle of Dogs","Patricia Daniels Cornwell","2001","Putnam Publishing Group",1
+"0451203046","Light a Penny Candle","Maeve Binchy","2001","Signet Book",3
+"0451410556","The Blue Last: A Richard Jury Mystery (Richard Jury Mysteries (Paperback))","Martha Grimes","2002","Onyx Books",1
+"0451523318","Turn of the Screw and Short N","Henry James","1978","Signet Book",1
+"0486281965","The Country of the Pointed Firs (Dover Thrift Editions)","Sarah Orne Jewett","1994","Dover Publications",1
+"0486292940","Early Poems (Dover Thrift Editions)","William Carlos Williams","1997","Dover Publications",4
+"051762639X","Barchester Towers (Oxford Pocket Classics)","Anthony Trollope","1986","Random House Value Publishing",1
+"0684824442","REEF","Edith Wharton","1996","Scribner",1
+"0743458303","Wednesday the Rabbi Got Wet","Harry Kemelman","2003","I Books",1
+"081296666X","Things My Girlfriend and I Have Argued About: A Novel","Mil Millington","2003","Villard Books",1
+"0819215635","Listening Hearts: Discerning Call in Community","Suzanne G. Farnham","1991","Morehouse Group",1
+"0880011025","Unattainable Earth","Czeslaw Milosz","1987","Ecco Press",6
+"1877727083","Vertical Poetry: Recent Poems","Roberto Juarroz","1992","White Pine Press (NY)",1
+"0486206173","Rubinstein's Chess Masterpieces","Akiba Rubinstein","1941","Dover Publications",1
+"0312278586","The Nanny Diaries: A Novel","Emma McLaughlin","2002","St. Martin's Press",1
+"8845229041","Biblioteca Universale Rizzoli: Sulla Sponda Del Fiume Piedra","P Coelho","0","Fabbri - RCS Libri",1
+"887641486X","I Giorni Dell'abbandono","Elena Ferrante","2002","Edizioni E/O",7
+"0140370900","The Gizmo","Paul Jennings","1995","Puffin",1
+"0030096189","Organic Chemistry (Saunders Golden Sunburst Series)","Stephen J. Weininger","1994","Saunders College Publishing",1
+"0312965745","Secrets of St. John's Wort: A Lynn Sonberg Book","Larry Katzenstein","1998","St. Martin's Press",1
+"0345374657","Diet for a Poisoned Planet: How to Choose Safe Foods for You and Your Family","David Steinman","1992","Ballantine Books",1
+"080521061X","Montessori Today: A Comprehensive Approach to Education from Birth to Adulthood","Paula Polk Lillard","1996","Schocken Books",1
+"0823032612","Oil Painting Techniques (Artist's Painting Library)","David Lewis","1983","Watson-Guptill Publications",1
+"0679310002","Going down swinging","Billie Livingston","1999","Random House Canada",5
+"0312288115","Confessions of a Sociopathic Social Climber : The Katya Livingston Chronicles (Katya Livingston Chronicles (Hardcover))","Adele Lang","2002","Thomas Dunne Books",1
+"0316171107","Like a Hole in the Head","Jen Banbury","1998","Little Brown &amp",3
+"0380710218","Postmortem","Patricia Daniels Cornwell","1993","Harper Mass Market Paperbacks (Mm)",1
+"0515118656","The Cove","Catherine Coulter","1996","Jove Books",4
+"0553289063","An Inconvenient Woman","Dominick Dunne","1991","Bantam Books",1
+"0671000306","Shock Wave (Dirk Pitt Adventures (Paperback))","Clive Cussler","1996","Pocket",1
+"0671673688","While My Pretty One Sleeps","Mary Higgins Clark","1990","Pocket",1
+"1561672033","Antipodes 10","John Pascal","1995","Noble House",1
+"0425178242","Kick Ass: Selected Columns of Carl Hiaasen","Carl Hiaasen","2001","Berkley Publishing Group",1
+"0618173870","Everything Is Illuminated: A Novel","Jonathan Safran Foer","2002","Houghton Mifflin Company",1
+"0156027321","Life of Pi","Yann Martel","2003","Harvest Books",4
+"0375403582","Rules of the Wild","Francesca Marciano","1998","Random House Inc",1
+"0385721420","Three Junes","JULIA GLASS","2003","Anchor",5
+"0451202341","Back Roads","Tawni O'Dell","2001","Signet Book",1
+"0743418190","In Her Shoes : A Novel","Jennifer Weiner","2002","Atria Books",3
+"0385335407","The Kiss","Danielle Steel","2001","Delacorte Press",1
+"0965746828","Home Spun: A Collection","Leon Hale","1997","Winedale Publishing",1
+"0060923245","Sweet Hereafter Movie Tie-In : A Novel","Russell Banks","1992","Perennial",1
+"0486272664","The Rime of the Ancient Mariner and Other Poems","Samuel Taylor Coleridge","1992","Dover Publications",1
+"0786015276","11th Hour","Bradley Warshauer","2003","Pinnacle Books",1
+"0060913509","In Country RI","Bobbie Ann Mason","1986","Perennial",1
+"0553272837","Brazen Virtue","Nora Roberts","1996","Bantam Books",1
+"0440225078","Ghost Moon","Karen Robards","2001","Dell Publishing Company",6
+"0312145543","Brewing Up a Storm: A John Thatcher Mystery","Emma Lathen","1996","St Martins Pr",1
+"0425181111","Strangers","Dean R. Koontz","2002","Berkley Publishing Group",4
+"0380732688","Milk and Honey (Peter Decker/Rina Lazarus Novels)","Faye Kellerman","2002","Avon",1
+"0140286276","The Deep End of the Ocean (Oprah's Book Club)","Jacquelyn Mitchard","1999","Penguin Books",3
+"0373484100","Night Tales","Nora Roberts","2000","Silhouette",1
+"0449907481","A Thousand Acres (Ballantine Reader's Circle)","JANE SMILEY","1992","Ballantine Books",1
+"0553107305","Chopping Spree","DIANE MOTT DAVIDSON","2002","Bantam",1
+"080213825X","Four Blondes","Candace Bushnell","2001","Grove Press",5
+"0515127833","River's End","Nora Roberts","2003","Jove Books",1
+"0345441133","Summer Island","KRISTIN HANNAH","2002","Ballantine Books",3
+"0515134279","The Straw Men","Michael Marshall","2002","Jove Books",1
+"0945586051","The Doctor the Patient: The Personal Journey of a Physician With Cancer","Allen Widome","1989","Editech Pr",17
+"0385490992","The Street Lawyer","John Grisham","1998","Doubleday Books",1
+"0385424728","The Chamber","John Grisham","1994","Doubleday Books",2
+"0312980388","Warlock : A Novel of Ancient Egypt","Wilbur Smith","2002","St. Martin's Paperbacks",1
+"0590419625","The Teacher from the Black Lagoon","Mike Thaler","1989","Scholastic",1
+"0385472951","The Partner","John Grisham","1997","Doubleday Books",4
+"0451195663","Primal Scream","Michael Slade","1998","Signet Book",1
+"0425182878","Chosen Prey","John Sandford","2004","Berkley Publishing Group",2
+"0553564528","Guilty as Sin","TAMI HOAG","1997","Bantam",1
+"055356451X","Night Sins","TAMI HOAG","1995","Bantam",1
+"0743412621","The Second Time Around : A Novel","Mary Higgins Clark","2004","Pocket",1
+"0849943728","Three","Ted Dekker","2003","WestBow Press",1
+"0849943450","The Canopy","Angela Elwell Hunt","2003","WestBow Press",2
+"084994371X","Blink","Ted Dekker","2003","WestBow Press",1
+"0590406019","Last Battle","C. S. Lewis","1988","Scholastic Paperbacks (Mm)",1
+"0020442408","Prince Caspian","C. S. Lewis","1970","MacMillan Publishing Company.",1
+"0553225987","Robert's Rules of Order","William Eisner","1986","Bantam Books",1
+"042517736X","Abduction","Robin Cook","2000","Berkley Publishing Group",3
+"0671868713","And Never Let Her Go : Thomas Capano: The Deadly Seducer","Ann Rule","2000","Pocket",1
+"038549825X","Not a Day Goes By : A Novel","E. LYNN HARRIS","2001","Anchor",1
+"0553202294","Sun Signs","Linda Goodman","1981","Bantam Doubleday Dell",1
+"0345369947","The Mummy or Ramses the Damned","Anne Rice","1991","Ballantine Books",1
+"067170124X","HIS LITTLE WOMEN : HIS LITTLE WOMEN","Judith Rossner","1991","Pocket",1
+"0345353625","Her Mother's Daughter","Marilyn French","1990","Ballantine Books",1
+"0308102282","Your Erroneous Zones","Wayne W. Dyer","1976","Harpercollins",1
+"006017143X","The Night Listener","Armistead Maupin","2000","HarperCollins Publishers",1
+"0805056491","Organizing from the Inside Out","Julie Morgenstern","1998","Henry Holt &amp",6
+"0679401377","The Hellfire Club","Peter Straub","1996","Random House Inc",1
+"0385306032","Vanished","Danielle Steel","1993","Delacorte Press",1
+"0816152446","The Women in His Life (G K Hall Large Print Book Series)","Barbara Taylor Bradford","1991","Thorndike Pr",1
+"0821772953","The Morning After","Lisa Jackson","2004","Zebra Books",1
+"0345379454","Missing Susan","SHARYN MCCRUMB","1992","Ballantine Books",7
+"0553576925","Hiding in the Shadows (Shadows Trilogy (Paperback))","Kay Hooper","2000","Bantam Books",1
+"0743206053","Kitchen Privileges : A Memoir","Mary Higgins Clark","2002","Simon &amp",1
+"0688169678","We Are Our Mothers' Daughters","Cokie Roberts","2000","Perennial",1
+"0439319552","Horus's Horrible Day (First Graders from Mars)","Shana Corey","2001","Scholastic",1
+"0590870157","My Garden (Beginning Literacy)","Jesse S. Ostrow","1994","Scholastic",1
+"0307001164","101 Dalmatians","Justine Korman","1996","Golden Books Publishing Company",1
+"0440441501","In the Dinosaur's Paw (Kids of the Polk Street School)","PATRICIA REILLY GIFF","1987","Yearling",1
+"0590687301","Ralph S. Mouse","Beverly Cleary","2000","Scholastic",1
+"0439569842","How Do Dinosaurs Learn to Read","Jane Yolen","2003","Scholastic",1
+"0307118703","My First Book about Space (Golden Look-Look Books (Paperback))","Dinah L. Moche","1997","Golden Books",
+"0590418858","You Be the Jury #02","Marvin Miller","1989","Scholastic",1
+"030720152X","Comic Characters","Craig Boldman","1983","Golden Books",4
+"0816728739","The Time Machine (Troll Illustrated Classics)","H. G. Wells","1992","Troll Communications Llc",1
+"0865050880","I Like School (in My World Series)","Bobbie Kalman","1985","Crabtree Publishing Company",1
+"0812519655","Sacred Ground","Mercedes Lackey","1995","Tor Books",1
+"0812524853","Burning Water (Burning Water)","Mercedes Lackey","1992","Tor Books",1
+"0449211770","The Tightrope Walker","Dorothy Gilman","1997","Fawcett Books",1
+"193072229X","MoveOn's 50 Ways to Love Your Country: How to Find Your Political Voice and Become a Catalyst for Change","Moveon","2004","Inner Ocean Publishing",1
+"0812521129","Children of the Night","Mercedes Lackey","1990","Tor Books",4
+"0345251733","Rainbow the Stormy Life of Judy Garland","Christopher Finch","0","Ballantine Books",1
+"1400077826","Cold Mountain (MTI) (Vintage Contemporaries)","CHARLES FRAZIER","2003","Vintage",5
+"0312995431","A Fountain Filled With Blood (A Rev. Clare Ferguson Mystery)","Julia Spencer-Fleming","2004","St. Martin's Paperbacks",1
+"0312312628","Out of the Deep I Cry : A Clare Fergusson/Russ Van Alstyne Mystery","Julia Spencer-Fleming","2004","St. Martin's Minotaur",3
+"0446394521","Daisy Fay and the Miracle Man","Fannie Flagg","1992","Warner Books",1
+"0590021117","Little House On the Prairie","Laura Ingall Wilder","0","Scholastic Inc",1
+"068484267X","Angela's Ashes: A Memoir","Frank McCourt","1999","Scribner",1
+"0553578693","The Next Accident","LISA GARDNER","2002","Bantam",1
+"0380709260","Socks (Cleary Reissue)","Beverly Cleary","1990","HarperTrophy",1
+"0312986769","In the Bleak Midwinter (A Rev. Clare Ferguson Mystery)","Julia Spencer-Fleming","2003","St. Martin's Minotaur",1
+"0061096091","Eyeshot","Lynn S. Hightower","1997","Harper Mass Market Paperbacks (Mm)",1
+"0451184718","The Rosewood Casket","Sharyn McCrumb","1997","Signet Book",1
+"0449209121","The Amazing Mrs. Pollifax","Dorothy Gilman","1992","Fawcett Books",1
+"0060938455","Fast Food Nation: The Dark Side of the All-American Meal","Eric Schlosser","2002","Perennial",1
+"080411952X","The Unsung Hero","Suzanne Brockmann","2000","Ivy Books",5
+"0060558865","Ella Enchanted (rack)","Gail Carson Levine","2004","Avon",3
+"0767912918","Passing for Thin : Losing Half My Weight and Finding My Self","FRANCES KUFFEL","2004","Broadway",1
+"0553298860","Bloodlines (Dog Lover's Mysteries)","Susan Conant","1994","Bantam Books",17
+"0385335679","Kissing in Manhattan","DAVID SCHICKLER","2002","Delta",2
+"0440122090","Echoes","Maeve Binchy","1989","Dell",1
+"0671525832","Someone to Watch Over Me : A Novel","Judith McNaught","2003","Pocket",3
+"0553279572","The Toynbee Convector","Ray Bradbury","1989","Spectra Books",1
+"0061009059","One for the Money (Stephanie Plum Novels (Paperback))","Janet Evanovich","1995","HarperTorch",4
+"0060930187","The Bell Jar : A Novel (Perennial Classics)","Sylvia Plath","2000","Perennial",1
+"0516076272","A polar bear called Pingo","Ilona Koidahl","1974","Childrens Press",2
+"0679450432","Dark Lady","Richard North Patterson","1999","Alfred A. Knopf",1
+"0821775863","The Future Scrolls","Fern Michaels","2003","Zebra Books",1
+"0821770209","About Face","Fern Michaels","2003","Zebra Books",1
+"0670855758","Tarot Says Beware (A Herculeah Jones Mystery)","Betsy Byars","1995","Viking Books",1
+"0553562819","Globalhead","Bruce Sterling","1994","Spectra Books",2
+"0446364193","Along Came a Spider (Alex Cross Novels)","James Patterson","1993","Warner Books",1
+"0446519138","Simple Abundance:  A Daybook of Comfort and Joy","Sarah Ban Breathnach","1995","Warner Books",1
+"0425179672","The River King","Alice Hoffman","2001","Berkley Publishing Group",1
+"0061042943","Final Appeal","Lisa Scottoline","1994","HarperTorch",1
+"0399144463","Who Moved My Cheese? An Amazing Way to Deal with Change in Your Work and in Your Life","Spencer Johnson","1998","Putnam Pub Group (Paper)",3
+"0965404560","Atonement","Ian McEwan","2002","Nan A. Talese",1
+"006015781X","Why Do Clocks Run Clockwise? and Other Imponderables: Mysteries of Everyday Life Explained","David Feldman","1987","Harpercollins",1
+"0060930705","Someone to Watch Over Me : Stories","Richard Bausch","2000","Perennial",1
+"0312206763","Stately Pursuits","Katie Fforde","1999","Griffin Trade Paperback",4
+"0316116025","The Pinball Effect: How Renaissance Water Gardens Made the Carburetor Possible-And Other Journeys Through Knowledge (Pinball Effect)","James Burke","1996","Little Brown &amp",1
+"0385314019","Women on the Case","Sara Paretsky","1996","Bantam Dell Pub Group",1
+"0743444167","New Cardiff","Charles Webb","2002","Washington Square Press",1
+"0618231617","Almost: A Novel","Elizabeth Benedict","2002","Mariner Books",1
+"0811203220","Stand Still Like the Hummingbird","Henry Miller","1962","New Directions Publishing Corporation",1
+"1573229148","Crossing the Unknown Sea: Work As a Pilgrimage of Identity","David Whyte","2002","Riverhead Books",1
+"0787955671","The Future of Leadership: Today's Top Leadership Thinkers Speak to Tomorrow's Leaders","Warren  Bennis","2001","Jossey-Bass",1
+"0385496907","No Future Without Forgiveness","Desmond Mpilo Tutu","2000","Image",1
+"0140185216","On the Road (Penguin 20th Century Classics)","Jack Kerouac","1998","Penguin USA (Paper)",1
+"0684717255","I And Thou","Martin Buber","1971","Free Press",1
+"0486272745","The Prince (Dover Thrift Editions)","Niccolò Machiavelli","1992","Dover Publications",1
+"0062507249","Becoming a Man : Half a Life Story","Paul Monette","1993","HarperSanFrancisco",1
+"0684801221","OLD MAN AND THE SEA","Ernest Hemingway","1995","Scribner",1
+"1576737357","Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl)","Melody Carlson","2000","Multnomah",1
+"0060083298","The Dominant Blonde","Alisa Kwitney","2002","Avon Trade",1
+"0446672211","Where the Heart Is (Oprah's Book Club (Paperback))","Billie Letts","1998","Warner Books",5
+"0140293248","The Girls' Guide to Hunting and Fishing","Melissa Bank","2000","Penguin Books",1
+"0807070718","Rena's Promise: A Story of Sisters in Auschwitz","Rena Kornreich Gelissen","1996","Beacon Press",3
+"0743213831","America the Beautiful: A Novel","Moon Unit Zappa","2001","Touchstone",1
+"0345305477","Easy Travel to Other Planets","Ted Mooney","1982","Ballantine Books",4
+"0061080519","The Mist and the Magic (Harper Monogram)","Susan Wiggs","1993","Harper Mass Market Paperbacks",1
+"0142000205","Icy Sparks","Gwyn Hyman Rubio","2001","Penguin Books",1
+"0316735027","The True and Outstanding Adventures of the Hunt Sisters: A Novel","Elisabeth Robinson","2004","Little",1
+"193156146X","The Time Traveler's Wife","Audrey Niffenegger","2003","MacAdam/Cage Publishing",1
+"015600710X","Strange Fits of Passion: A Novel","Anita Shreve","1999","Harvest Books",1
+"0062517856","The Monk Downstairs: A Novel","Tim Farrington","2002","HarperSanFrancisco",1
+"0679767789","Lost in Place: Growing Up Absurd in Suburbia","Mark Salzman","1996","Vintage Books USA",4
+"0449911683","My Name Is Asher Lev","Chaim Potok","1996","Ballantine Books",1
+"0425169626","Waking the Dead","Scott Spencer","2000","Berkley Publishing Group",5
+"0449207757","Davita's Harp","Chaim Potok","1990","Fawcett Books",1
+"0449245691","The Book of Lights","Chaim Potok","1997","Fawcett Books",3
+"0140029400","The Mimic Men","V. S. Naipaul","1992","Penguin USA",1
+"0140021566","The Mystic Masseur","V.S. Naipaul","1993","Penguin USA",1
+"2253004022","Regain","Jean Giono","1987","LGF",1
+"2253005274","Le Grand Meaulnes (Classiques De Poche)","Alain-Fournier","2000","Distribooks Inc",1
+"225300670X","A l'Ouest rien de nouveau","Erich Maria Remarque","1973","LGF",1
+"2266084372","Pourquoi j'ai mang�?© mon p�?¨re","Lewis","2000","Pocket",1
+"2070362388","Ravage","Rene Barjavel","0","Gallimard French",1
+"2266029460","Voyage d'une parisienne �?  Lhassa","Alexandra David-N�?©el","1989","Pocket",6
+"2253007102","Les Fleurs Du Mal","C. Baudelaire","1972","Livre De Poche French",1
+"2070417743","Chroniques martiennes","Ray Bradbury","2002","Gallimard",4
+"2266033689","Le Diable Au Corps","Raymond Radiguet","0","Presses Pocket French",1
+"2070384349","La Faute de l'abb�?© Mouret","Emile Zola","1991","Gallimard",3
+"207053880X","L'Homme Qui Plantait Des Arbres","Jean Giono","2002","Distribooks Inc",1
+"2070334368","La Guerre Des Boutons","Pergaud","0","Livre de Poche",1
+"2290314951","Paroles de Poilus : Lettres et carnets du front 1914-1918","Collectif","2001","J'ai lu",1
+"229000510X","Une porte sur l'�?©t�?©","Robert A. Heinlein","1999","J'ai lu",5
+"3492207006","Die Entdeckung der Langsamkeit.","Sten Nadolny","1987","Piper",1
+"3499177757","Die Grenzen des Geschlechts: Anleitungen zum Sturz des internationalen Patriarchats : Amnesty for Women (Rororo Sachbuch)","Cheryl Benard","1984","Rowohlt",3
+"3889774016","Frauen der Welt: Vom Fortschritt der Ungleichheit","Christa Wichterich","1995","Lamuv",1
+"3502670005","I Ging. Das Buch der Wandlung. Das gro�?�?e Weisheits- und Orakelbuch der alten Chinesen.","John. Blofeld","1999","O. W. Barth Bei Scherz",17
+"0905762487","African Women: Their Struggle for Economic Independence","Christine Obbo","1980","Palgrave-Macmillan",1
+"3499222604","Die globalisierte Frau: Berichte aus der Zukunft der Ungleichheit (Frauen aktuell)","Christa Wichterich","1998","Rowohlt",2
+"0140620427","Sense and Sensibility (Penguin Popular Classics)","Jane Austen","1994","Penguin Books Ltd",3
+"3596144434","Der gemietete Mann.","Hera Lind","1999","Fischer (Tb.)",1
+"3442724686","Der Gott der kleinen Dinge.","Arundhati Roy","1999","btb",4
+"0385504209","The Da Vinci Code","Dan Brown","2003","Doubleday",1
+"0446525502","The Rescue","Nicholas Sparks","2000","Warner Books",2
+"0385500769","A Map of the World","Jane Hamilton","1999","Doubleday Books",1
+"0399147012","Edge of Danger","Jack Higgins","2001","Putnam Publishing Group",1
+"0670892963","Bridget Jones : The Edge of Reason","Helen Fielding","2000","Viking Books",1
+"0688180639","Vinegar Hill (Oprah's Book Club (Hardcover))","A. Manette Ansay","1999","HarperCollins",1
+"0316789089","The Pilot's Wife : A Novel Tag: Author of the Weight of Water (Oprah's Book Club (Hardcover))","Anita Shreve","1999","Little",2
+"0451197275","Saving Private Ryan: A Novel","Max Allan Collins","1998","Signet Book",1
+"0425184129","Big Trouble","Dave Barry","2002","Berkley Publishing Group",1
+"0151001006","Snow Falling on Cedars","David Guterson","1994","Harcourt",1
+"0385505833","Skipping Christmas","JOHN GRISHAM","2001","Doubleday",1
+"0679442790","The Reader","Bernhard Schlink","1997","Random House",3
+"0525943862","Cheaters","Eric Jerome Dickey","1999","Dutton Books",1
+"0609605925","Angel Falls","KRISTIN HANNAH","2000","Crown",1
+"0060191929","The Saving Graces : A Novel","Patricia Gaffney","1999","HarperCollins",1
+"0743206045","Daddy's Little Girl","Mary Higgins Clark","2002","Simon &amp",4
+"0684864843","The Vineyard : A Novel","Barbara Delinsky","2000","Simon &amp",1
+"0684867818","The Looking Glass : A Novel (The Locket Series)","Richard Paul Evans","1999","Simon &amp",1
+"0743406176","If Only It Were True","Marc Levy","2000","Atria",1
+"0679603352","The Cider House Rules: A Novel (Modern Library)","John Irving","1999","Modern Library",1
+"0679410430","Lolita (Everyman's Library (Cloth))","VLADIMIR NABOKOV","1993","Everyman's Library",6
+"0446523569","Message in a Bottle","Nicholas Sparks","1998","Warner Books",1
+"0671042556","Blackbird: A Childhood Lost and Found","Jennifer Lauck","2000","Atria",1
+"0679450440","Protect and Defend","Richard North Patterson","2000","Random House Inc",1
+"0140107649","Blue Heaven (Contemporary American Fiction S.)","Joe Keenan","1988","Penguin Books",1
+"0609606727","Julie and Romeo","Jeanne Ray","2000","Harmony",1
+"0446527793","The Guardian","Nicholas Sparks","2003","Warner Books",7
+"0446531332","Nights in Rodanthe","Nicholas Sparks","2002","Warner Books",1
+"1570717257","Man and Boy","Tony Parsons","2001","Sourcebooks Landmark",1
+"0060192631","One Heart","Jane McCafferty","1999","HarperCollins Publishers",1
+"052594463X","All of Me: A Voluptuous Tale","Venise T. Berry","2000","Dutton Books",1
+"039304016X","The Perfect Storm: A True Story of Men Against the Sea","Sebastian Junger","1997","Little Brown and Company",1
+"0399147128","The Villa","Nora Roberts","2001","Putnam Publishing Group",1
+"0670031046","In This Mountain","Jan Karon","2002","Viking Books",5
+"0316969443","Suzanne's Diary for Nicholas","James Patterson","2001","Little",3
+"0743230051","He Sees You When You're Sleeping : A Novel","Mary Higgins Clark","2001","Scribner",1
+"0316693200","2nd Chance","James Patterson","2002","Little",4
+"0684868911","The Carousel : A Novel","Richard Paul Evans","2000","Simon &amp",1
+"0842336214","The Promise Remains","Travis Thrasher","2000","Tyndale House Publishers",1
+"0399148582","You Cannot Be Serious","John McEnroe","2002","Putnam Publishing Group",1
+"0684864320","LAKE NEWS : A Novel","Barbara Delinsky","1999","Simon &amp",1
+"0525944834","Liar's Game","Eric Jerome Dickey","2000","Dutton Books",1
+"0345428900","Out of the Blue","Sally Mandel","2000","Ballantine Books",1
+"0451176812","Voice of the Eagle","Linda Lay Shuler","1993","Signet Book",4
+"0671525794","The Kingdom by the Sea: A Journey Around Great Britain","Paul Theroux","1984","Pocket Books",1
+"0718144538","Shattered Uk","Dick Francis","0","Michael Joseph Ltd",5
+"0446602086","The Proud and the Free","Janet Dailey","1995","Warner Vision",1
+"0394551427","Shoah","Claude Lanzmann","1985","Random House Inc",3
+"0007100221","TERROR FIRMA","Matthew Thomas","2001","Trafalgar Square",1
+"2253148539","Le Loup-garou","Boris Vian","1999","LGF",1
+"2253043974","Chronique d'une mort annonc�?©e","Gabriel Garcia Marquez","1987","LGF",1
+"2020315491","Le neveu d'Am�?©rique","Luis Sep�?ºlveda","1998","Seuil",1
+"0747549923","Last Exit to Brooklyn","Hubert Selby","2000","Bloomsbury Pub Ltd",1
+"0743462335","More George W. Bushisms: More Verbal Contortions from America's 43rd President","Jacob Weisberg","2002","Simon &amp",1
+"0140253580","Therapy","David Lodge","1996","Penguin Putnam~trade",6
+"0947782141","Scottish Ghosts","Judy Hamilton","1999","Lomond Books",1
+"057120354X","Awful End (Eddie Dickens Trilogy S.)","Philip Ardagh","2000","Faber Children's Books",4
+"0349101779","The Wasp Factory","Iain Banks","0","Abacus",1
+"0743222229","George W. Bushisms : The Slate Book of The Accidental Wit and Wisdom of our 43rd President","Jacob Weisberg","2001","Fireside",3
+"185479549X","The World's Stupidest Laws","David Crombie","2000","Michael O'Mara Books",1
+"0140292918","Of Mice and Men (Steinbeck \""Essentials\"")","John Steinbeck","2001","Penguin Books Ltd",1
+"1854795554","The World's Stupidest Signs","Michael O'Mara","2000","Michael O'Mara Books",1
+"1858813093","Nessie: The Loch Ness Monster","Richard Brassey","2003","Trafalgar Square Books",5
+"0198604025","How Not to Say What You Mean: A Dictionary of Euphemisms (Oxford Paperback Reference S.)","R. W. Holder","2003","Oxford University Press",3
+"1842151053","Cooking for One (Cook's Essentials)","Valerie Ferguson","2000","Southwater Publishing",1
+"2253063339","Les Fourmis","Bernard Werber","2002","LGF",17
+"1860198597","How to Draw Celtic Knotwork: A Practical Handbook","Andy Sloss","0","Brockhampton Press",1
+"0767908473","The Sorcerer's Companion: A Guide to the Magical World of Harry Potter","ALLAN ZOLA KRONZEK","2001","Broadway",2
+"1842040154","Celtic Myths and Legends","Charles L. Squire","2000","Lomond Books",1
+"0140622063","Scottish Folk and Fairy Tales (Penguin Popular Classics)","Gordon Jarvie","1997","Penguin Books Ltd",1
+"0571209521","Terrible Times (Eddie Dickens Trilogy S.)","Philip Ardagh","2002","Faber Children's Books",4
+"1841952931","Glasgow Zen","Alan Spence","2002","Canongate Books Ltd",2
+"0890877564","Totally Muffins Cookbook (Totally Cookbooks)","Helene Siegel","1995","Celestial Arts",1
+"1405200677","Tigger's Little Book of Diet and Exercise","E.H. Shepard","2002","Egmont Childrens Books",1
+"0416196772","Eeyore's Little Book of Gloom","Alan Alexander Milne","1999","Routledge",1
+"0747538069","The Adventures of Dougal","Eric Thompson","1998","Bloomsbury Publishing PLC",1
+"0375501347","Amy and Isabelle","Elizabeth Strout","1999","Random House Inc",2
+"0316776963","Me Talk Pretty One Day","David Sedaris","2001","Back Bay Books",1
+"156341029X","Stone Butch Blues","Leslie Feinberg","1993","Firebrand Books",1
+"0060934719","stardust","Neil Gaiman","2001","Perennial",1
+"1886383421","Fires of Aggar","Chris Anne Wolfe","2001","Windstorm Creative",3
+"1888451084","Kamikaze Lust","Lauren Sanders","2000","Akashic Books",1
+"0451450256","Gossamer Axe","Gael Baudino","1993","New Amer Library",1
+"1555835953","Witchfire","Lauren Maddison","2001","Alyson Books",1
+"0395877563","Seven Moves","Carol Anshaw","1997","Mariner Books",4
+"0962893862","Return to Isis","Jean Stewart","1992","Rising Tide Press (AZ)",1
+"1555834531","Hood","Emma Donoghue","1998","Alyson Publications",1
+"0393318435","Leaving Pipe Shop: Memories of Kin","Deborah McDowell","1998","W. W. Norton &amp",1
+"0889740828","Love Ruins Everything: A Novel","Karen X. Tulchinsky","1998","Press Gang Publishers",1
+"1563411148","The Second Coming of Curly Red","Jody Seay","1999","Firebrand Books",1
+"0553579681","Night Mares","Manda Scott","1999","Crimeline",1
+"0553579673","Hen's Teeth","Manda Scott","1999","Bantam Books",1
+"0451181379","The Door to December","Dean R. Koontz","1994","Signet Book",1
+"0345370740","The Scions of Shannara (Heritage of Shannara (Paperback))","Terry Brooks","1993","Del Rey Books",7
+"0553574175","Star Wars the Rebel Dawn: The Han Solo Trilogy (Star Wars: Han Solo Trilogy (Paperback))","A.C. Crispin","1998","Spectra Books",1
+"0312287240","A Year of Full Moons","Madelyn Arnold","2002","Stonewall Inn Editions",1
+"0679801146","Alanna: The First Adventure (Song of the Lioness (Paperback))","Tamora Pierce","1989","Random House Children's Books",1
+"0821750410","Warrior Moon","Sara Orwig","1995","Zebra Books",1
+"0425142485","The Funhouse","Dean R. Koontz","1994","Berkley Publishing Group",1
+"0451456548","Cold Iron","Melisa Michaels","1997","Roc",5
+"0060006048","Circle of Three #12: Written in the Stars (Circle of Three)","Isobel Bird","2001","Avon",1
+"0312906552","The Space Merchants","Frederik Pohl","1987","St Martins Pr",6
+"0440117291","DREAMSNAKE","VONDA MCINTYRE","1986","Dell",2
+"0425049981","Titan","John Varley","1980","Berkley Publishing Group",1
+"0374386676","The Year They Burned the Books","Nancy Garden","1999","Farrar Straus Giroux",3
+"0786886463","A Density of Souls","Christopher Rice","2001","Miramax",1
+"0345395379","Slow River","Nicola Griffith","1996","Ballantine Books",4
+"0380788497","Changer","Jane Lindskold","1998","Eos",1
+"0307215342","Trixie Belden and the Mystery Off Glen Road (Mystery Off Glen Road)","Julie Campbell","1977","Random House Childrens Books",2
+"0374343381","Lark in the Morning","Nancy Garden","1991","Farrar Straus &amp",1
+"0345403339","Saving Grace","LEE SMITH","1996","Ballantine Books",1
+"0440226694","Lena (50 State Quarters)","JACQUELINE WOODSON","2000","Laurel Leaf",1
+"0440219604","I Hadn't Meant to Tell You This","Jacqueline Woodson","1995","Laurel-Leaf Books",1
+"0767903285","Raise the Roof: The Inspiring Inside Story of the Tennessee Lady Vols' Undefeated 1997-98 Season","Pat Head Summitt","1998","Broadway Books",2
+"038529929X","Hannibal","Thomas Harris","1999","Del Sol Press",1
+"1573229571","About a Boy (Movie Tie-In)","Nick Hornby","2002","Riverhead Books",1
+"0345418778","Mostly Harmless","Douglas Adams","2000","Ballantine Books",1
+"0517201658","The Thorn Birds (Modern Classics)","Colleen McCullough","1998","Wings",3
+"0743211383","Dreamcatcher","Stephen King","2001","Scribner",1
+"039914370X","Sudden Mischief (Spenser Mysteries (Hardcover))","Robert B. Parker","1998","Putnam Pub Group",1
+"1884777805","Elements of Programming With Perl","Andrew L. Johnson","1999","Manning Publications",1
+"0312977905","To Catch a Cat","Marian Babson","2002","St. Martin's Minotaur",4
+"0451205421","The Door to December","Dean R. Koontz","2002","Signet Book",1
+"0894342789","College Majors and Careers: A Resource Guide for Effective Life Planning (College Majors and Careers)","Paul Phifer","1999","Ferguson Publishing Company",1
+"0440218535","Smilla's Sense of Snow","Peter Hoeg","1997","Island",1
+"0449207595","The Grass Is Always Greener over the Septic Tank","Erma Bombeck","1988","Fawcett Books",1
+"8806142267","Viaggi del tempo immobile (I coralli)","Roberto Vecchioni","1996","Einaudi",6
+"0670844594","Rumpole on Trial","John Mortimer","1992","Penguin USA",1
+"039457513X","Billy Bathgate","E. L. Doctorow","1989","Random House",1
+"0394559487","Citizens: A Chronicle of the French Revolution","Simon Schama","1989","Random House Inc",1
+"0804001944","The Man Who Killed the Deer","Frank Waters","1970","Ohio University Press",1
+"0590897985","The Music of Dolphins (Apple Signature Edition)","Karen Hesse","1998","Hyperion Books for Children",1
+"0689832877","Sunwing (Aladdin Fantasy)","Kenneth Oppel","2001","Aladdin",7
+"0689829698","Caddie Woodlawn - Newbery Promo '99 (Aladdin Fiction)","Carol Ryrie Brink","1999","Aladdin",1
+"0439042917","The Hork-Bajir Chronicles (Animorphs Series)","K. A. Applegate","1998","Scholastic",1
+"0064409457","The Silver Chair (full color) (Narnia)","C. S. Lewis","2000","HarperTrophy",1
+"0064405052","The Magician's Nephew (Narnia)","C. S. Lewis","1994","HarperTrophy",1
+"0152162445","High Wizardry: The Third Book in the Young Wizards Series","Diane Duane","2001","Magic Carpet Books",1
+"0152162577","Deep Wizardry: The Second Book in the Young Wizards Series","Diane Duane","2001","Magic Carpet Books",1
+"015216250X","So You Want to Be a Wizard: The First Book in the Young Wizards Series","Diane Duane","2001","Magic Carpet Books",1
+"1562477528","Going for Great (Ag Fiction (American Girl))","Carolee Brockmann","1999","Pleasant Company Publications",5
+"0439221706","Avalon: Web Of Magic #5: Spellsinger","Rachel Roberts","2002","Scholastic Paperbacks",4
+"0439221730","Trial by Fire","Rachel Roberts","2002","Scholastic Paperbacks",1
+"068983585X","The Janitor's Boy","Andrew Clements","2001","Aladdin",1
+"0345391802","The Hitchhiker's Guide to the Galaxy","Douglas Adams","1995","Ballantine Books",1
+"0440219078","The Giver (21st Century Reference)","LOIS LOWRY","1994","Laure Leaf",1
+"185424597X","The Heavenly Man: The Remarkable True Story of Chinese Christian Brother Yun","Paul Hattaway","2003","Monarch Books",4
+"2080105434","The Little Book of Chocolate (Little Book Of...(Flammarion))","Alain Stella","2001","Flammarion",1
+"349913358X","Das Schlampenbuch. Erz�?¤hlungen. ( neue frau).","Milena Moser","1993","Rowohlt Tb.",5
+"3257201761","Die zwei Gesichter des Januars.","Patricia Highsmith","1974","Diogenes Verlag",1
+"3404121686","Nacht �?¼ber den Wassern.","Ken Follett","1994","L�?¼bbe",3
+"3404118960","Die S�?¤ulen der Erde. Roman.","Ken Follett","1992","L�?¼bbe",1
+"0345356578","A Man Rides Through (Man Rides Through)","Stephen Donaldson","1990","Del Rey Books",1
+"0345346971","Mirror of Her Dreams (Mordant's Need)","STEPHEN R. DONALDSON","1987","Del Rey",1
+"0753804700","Reader","Bernhard Schlink","0","Phoenix Books",1
+"0451155750","The Dead Zone","Stephen King","2004","Signet Book",1
+"0786890436","The Diary of Ellen Rimbauer: My Life at Rose Red","Ellen Rimbauer","2002","Hyperion Press",1
+"0415928087","A New Germany in a New Europe","Todd Herzog","2000","Routledge",1
+"0812923278","The Great Depression : America 1929-1941","ROBERT S. MCELVAINE","1993","Three Rivers Press",1
+"0884111342","Lady of the Shroud","Bram Stoker","1989","Amereon Limited",4
+"0671694049","LONG DARK TEA TIME OF THE SOUL","Douglas Adams","1990","Pocket",3
+"080901582X","The Return of Simple","Langston Hughes","1995","Hill &amp",1
+"0373250339","A Minor Indiscretion (Red Dress Ink (Paperback))","Carol Matthews","2003","Red Dress Ink",1
+"0385497679","Hidden in Plain View: A Secret Story of Quilts and the Underground Railroad","Jacqueline L. Tobin","2000","Anchor Pub",1
+"0451454243","The Forest House","Marion Zimmer Bradley","1995","Roc",3
+"0941423042","American Poetry Since 1970: Up Late","Andrei Codrescu","1988","Four Walls Eight Windows",1
+"0373871562","Twin Blessings (Love Inspired (Numbered))","Carolyne Aarsen","2001","Steeple Hill",17
+"0553101439","West of Dodge: Frontier Stories","Louis L'Amour","1996","Bantam",1
+"0835949362","Non-manipulative selling","Anthony J Alessandra","1981","Reston Pub. Co",1
+"0880701102","Come Before Winter and Share My Hope","Charles R. Swindoll","1985","Word Publishing",3
+"039914563X","The Bear and the Dragon","Tom Clancy","2000","G. P. Putnam's Sons",1
+"0312853238","Ender's Game (Ender Wiggins Saga (Paperback))","Orson Scott Card","1992","Tor Books",4
+"0688048730","Thinking on paper","V. A Howard","1986","W. Morrow",1
+"0425161722","Net Force","Tom Clancy","1999","Berkley Publishing Group",2
+"0385493800","The Testament","John Grisham","1999","Doubleday Books",1
+"0849916399","The Internet Church","Walter P. Wilson","2000","W Publishing Group",1
+"1928791107","The Mp3 and Internet Audio Handbook: Your Guide to the Digital Music Revolution","Bruce Fries","2000","Teamcom Books",1
+"0440211727","A Time to Kill","JOHN GRISHAM","1992","Dell",2
+"0877192820","The Truth About Texas: Who Needs to Brag? We'Ve Got the Facts","Anne Dingus","1995","Gulf Publishing Company",1
+"0380002450","Awakening","Kate Chopin","1982","Avon",1
+"0394178017","Poetics of the New American Poetry","Donald Merriam Allen","1974","Grove Press",1
+"0425134350","Patriot Games","Tom Clancy","1992","Berkley Publishing Group",3
+"0385479689","Dead Men Do Tell Tales: The Strange and Fascinating Cases of a Forensic Anthropologist","William Maples","1995","Main Street Books",1
+"0380754851","Moonlighting: 148 Great Ways to Make Money on the Side","Carl Hausman","1991","Harpercollins",1
+"0380538504","Amanda Miranda","Richard Peck","1981","Harper Mass Market Paperbacks (Mm)",1
+"044661162X","Chasing the Dime","Michael Connelly","2003","Warner Books",4
+"0671742566","Tender Triumph (Sonnet Books)","Judith McNaught","1991","Pocket",1
+"0515122408","The Cat Who Tailed a Thief","Lilian Jackson Braun","1998","Jove Books",1
+"0440222818","Guilt","John T. Lescroart","1998","Island",1
+"0451204050","On Secret Service","John Jakes","2001","Signet Book",1
+"038533334X","Charming Billy","Alice McDermott","1999","Delta",1
+"0449131548","All the Days of My Life","Hilary Bailey","1986","Fawcett Books",6
+"0440120470","The Dinner Party","Howard Fast","1991","Dell Publishing Company",1
+"0451188209","A Palette for Murder: Murder She Wrote (Murder She Wrote (Paperback))","Jessica Fletcher","1996","Signet Book",1
+"0440130913","Golden Cup","Belva Plain","1987","Dell",1
+"0449001954","Murder at the Library of Congress (Capital Crimes (Paperback))","Margaret Truman","2001","Fawcett Books",1
+"0345404777","No Safe Place","RICHARD NORTH PATTERSON","1999","Ballantine Books",1
+"0451185277","Thorns of Truth","Eileen Goudge","1999","Signet Book",7
+"0440224829","Granny Dan","DANIELLE STEEL","2000","Random House",1
+"0671779338","Border Bride","Arnette Lamb","1993","Pocket",1
+"0515134368","The Penwyth Curse","Catherine Coulter","2004","Jove Books",1
+"0380759497","Xanth 15: The Color of Her Panties","Piers Anthony","1992","Eos",1
+"3442098424","Der F�?¼rst der Finsternis. Roman.","Anne Rice","1992","Goldmann",1
+"0394578791","A Reporter's Life","WALTER CRONKITE","1996","Knopf",1
+"1558505377","Jacob Marley's Christmas Carol","Tom Mula","1995","Adams Media Corp",1
+"068983571X","Hound of the Baskervilles (Aladdin Classics)","Sir Arthur Conan Doyle","2000","Aladdin",1
+"0553256785","SLEEPING MURDER","AGATHA CHRISTIE","1983","Bantam",3
+"0892967994","The Fractal Murders (Pepper Keane Mysteries)","Mark Cohen","2004","Mysterious Press",1
+"1551668785","Final Stand","Helen Myers","2002","Mira",1
+"0836230868","Christmas : A Holiday Treasury","Della Rowland","1994","Andrews McMeel Publishing",1
+"0381999866","Magic House of Numbers.","Irving. Adler","1974","Harpercollins Library",1
+"0380817144","Lord of the Silent: A Novel of Suspense","Elizabeth Peters","2002","Avon",1
+"0380752115","Whisper to Me of Love","Shirlee Busbee","1991","Harper Mass Market Paperbacks",1
+"0553212583","Wuthering Heights","EMILY BRONTE","1983","Bantam",1
+"0446364762","The Stars Shine Down","Sidney Sheldon","1993","Warner Books",4
+"0425166619","Toxin","Robin Cook","1999","Berkley Publishing Group",1
+"061312975X","This Present Darkness","Frank E. Peretti","1999","Sagebrush Bound",5
+"0765341972","The Mothman Prophecies","John A. Keel","2002","Tor Books",1
+"0590514776","Meet the Stars of Buffy the Vampire Slayer","Stefanie Scott","1998","Scholastic",3
+"0373037430","Rush to the Altar  (Twin Brides)","Rebecca Winters","2003","Harlequin",1
+"0064472779","All-American Girl","Meg Cabot","2003","HarperTrophy",1
+"0553581279","The Silver Metal Lover","Tanith Lee","1999","Spectra Books",1
+"0393030342","A Christmas Story","Richard Burton","1991","W W Norton &amp",1
+"0553561618","Dark Paradise","TAMI HOAG","1994","Bantam",1
+"0312422156","Middlesex: A Novel","Jeffrey Eugenides","2003","Picador",1
+"0425139069","Somebody Help Me","Beverly Hastings","1993","Berkley Publishing Group",6
+"0450029956","Other worlds: The comical history of the states and empires of the moon and sun (Science fiction master series)","Cyrano de Bergerac","1976","New English Library",1
+"0130139165","Introduction to Fire Prevention (5th Edition)","James C. Robertson","2000","Pearson Education",4
+"0373196741","To Catch A Sheik  (Desert Brides)","Teresa Southwick","2003","Silhouette",1
+"0451524489","The Awakening and Selected Stories of Kate Chopin (Signet Classic)","Kate Chopin","1995","Signet Book",3
+"0140065172","Ordinary People","Judith Guest","1993","Penguin Books",1
+"044022165X","The Rainmaker","JOHN GRISHAM","1996","Dell",1
+"0373123108","Sleeping Partners  (Nine to Five)","Helen Brooks","2003","Harlequin",5
+"0590225170","The Real Mother Goose","Blanche Fisher Wright","1994","Scholastic",1
+"0399143165","Toxin","Robin Cook","1998","Putnam Pub Group",3
+"044132231X","Heathcliff Gone Fishing","George Gately","1985","Diamond Books (NY)",1
+"0425124347","The Bad Place","Dean R. Koontz","1994","Berkley Publishing Group",17
+"0786889705","Two for Texas","James Lee Burke","2000","Hyperion",1
+"0425137945","Greygallows","Barbara Michaels","1993","Berkley Publishing Group",1
+"042512892X","Into the Darkness","Barbara Michaels","1996","Berkley Publishing Group",1
+"0425113892","Someone in the House","Barbara Michaels","1989","Berkley Publishing Group",4
+"0394820371","The Phantom Tollbooth","Norton Juster","1993","Yearling Books",1
+"0449134482","Dances With Wolves","Michael Blake","1990","Fawcett Books",2
+"014036336X","The House With a Clock in Its Walls","John Bellairs","1993","Puffin Books",1
+"0375821813","Hoot (Newbery Honor Book)","CARL HIAASEN","2002","Knopf Books for Young Readers",1
+"0812516826","Catnap : A Midnight Louie Mystery (A Midnight Louie Mystery)","Carole Nelson Douglas","1993","Forge Books",1
+"0345348036","The Princess Bride: S Morgenstern's Classic Tale of True Love and High Adventure","WILLIAM GOLDMAN","1987","Del Rey",1
+"0679420118","A Dangerous Place: California's Unsettling Fate (Images of America)","Marc Reisner","2003","Pantheon Books",2
+"0871137380","Black Hawk Down: A Story of Modern War","Mark Bowden","1999","Atlantic Monthly Press",1
+"0741409690","The Burberry Style","Jonathan Pearce","2002","Infinity Publishing.com",1
+"0741407213","Heavier Than Air (Balona Books)","Jonathan Pearce","2001","Infinity Publishing.com",1
+"0759612277","A Little Honesty: Trials and Triumphs of a Prince of Balona","Jonathan Pearce","2001","1stBooks Library",1
+"0741402858","The Balona Klongs","Jonathan Pearce","1999","Buy Books on the web.com",3
+"1585007366","Sang Froyd (Balona Books)","Jonathan Pearce","1999","1stBooks Library",1
+"074141127X","The Chocolate Korndog","Jonathan Pearce","2002","Infinity Publishing (PA)",1
+"0741403471","One Brick Shy","Jonathan Pearce","2000","Infinity Publishing (PA)",1
+"0741403781","Spring Break","Jonathan Pearce","2000","Infinity Publishing (PA)",4
+"0741403056","Focusing the Private Eye","Jonathan Pearce","2000","Infinity Publishing (PA)",1
+"0741405784","A Cuisine of Leftovers","Jonathan Pearce","2000","Infinity Publishing (PA)",1
+"0741402912","Finding Dad","Jonathan Pearce","1999","Infinity Publishing (PA)",1
+"0553568760","Natural Causes","Michael Palmer","1995","Bantam Books",1
+"034538184X","Degree of Guilt","Richard North Patterson","1995","Ballantine Books",1
+"0140620125","Wuthering Heights (Penguin Popular Classics)","Emily Bronte","1994","Penguin Books Ltd",6
+"0140620109","Emma (Penguin Popular Classics)","Jane Austen","1994","Penguin Books Ltd",1
+"0375420827","The Art of Travel","Alain de Botton","2002","Pantheon",1
+"0671745530","SO LONG AND THANKS FOR ALL THE FISH (Hitchhiker's Trilogy (Paperback))","Douglas Adams","1991","Pocket",1
+"0805062971","Fight Club","Chuck Palahniuk","1999","Owl Books",1
+"0553211412","Wuthering Heights","Emily Bronte","1983","Bantam",1
+"0671510053","SHIPPING NEWS","Annie Proulx","1994","Scribner",7
+"1573229385","The Frog King: A Love Story","Adam Davies","2002","Riverhead Books",1
+"0945397410","Outhouses of Alaska","Harry M. Walker","1996","Epicenter Press",1
+"0385334036","The Smoke Jumper","Nicholas Evans","2001","Delacorte Press",1
+"0060914653","The Unbearable Lightness of Being","Milan Kundera","1988","Harpercollins",1
+"0345347536","A Spell for Chameleon (Xanth Novels (Paperback))","Piers Anthony","1987","Del Rey Books",1
+"055321313X","Anne of Green Gables (Anne of Green Gables Novels (Paperback))","L.M. MONTGOMERY","1982","Bantam Classics",1
+"3473540420","Das Kurze Leben Der Sophie Scholl (Fiction"," Poetry and Drama)","Vinke","0",1
+"0375507256","Cloud Atlas : A Novel","DAVID MITCHELL","2004","Random House Trade Paperbacks",1
+"0060529709","Everything Is Illuminated : A Novel","Jonathan Safran Foer","2003","Perennial",5
+"0876850867","Post Office","Charles Bukowski","1980","Black Sparrow Books",1
+"0140274154","On the Road (Essential.penguin S.)","Jack Kerouac","1998","Penguin Books Ltd",
+"0679743464","Hard-Boiled Wonderland and the End of the World: A Novel (Vintage International)","Haruki Murakami","1993","Vintage Books USA",1
+"0375704027","Norwegian Wood (Vintage International Original)","Haruki Murakami","2000","Vintage Books USA",4
+"0874067391","A Little Princess","Frances Hodgson  Burnett","1996","Pages Publishing Group",1
+"0590484753","Talking to Dragons (Enchanted Forest Chronicles (Paperback))","Patricia C. Wrede","1995","Point Fantasy",1
+"0451527038","The Call of the Wild: And Selected Stories (Signet Classics (Paperback))","Jack London","1998","Signet Classics",1
+"1590520777","A Life God Rewards for Teens (The Breakthrough Series)","Bruce Wilkinson","2002","Multnomah",1
+"0590484672","Calling on Dragons (Read with Me Paperbacks)","Patricia C. Wrede","1994","Point Fantasy",1
+"0975311255","A Temporary New Wife","Malcolm Goodway","2004","AuthorsOmniscient Publishers",1
+"0743237188","Fall On Your Knees (Oprah #45)","Ann-Marie MacDonald","2002","Touchstone",4
+"0553586122","Reap the Wind","Iris Johansen","2002","Bantam Books",1
+"0553584510","The Survivors Club","LISA GARDNER","2003","Bantam",5
+"0345341201","Sins of Omission","FERN MICHAELS","1989","Ivy Books",1
+"1551662744","White Lies","Linda Howard","1997","Mira",3
+"0440175623","Random Winds","Belva Plain","1987","Dell",1
+"0440216842","The Carousel","Belva Plain","1998","Dell",1
+"0345443284","While I Was Gone","Sue Miller","1999","Ballantine Books",1
+"0553285653","Grass","Sheri S. Tepper","1990","Spectra Books",1
+"0394800133","One Fish Two Fish Red Fish Blue Fish (I Can Read It All by Myself Beginner Books)","DR SEUSS","1960","Random House Books for Young Readers",37
+"0060972777","This Boy's Life: A Memoir","Tobias Wolff","1989","Perennial",1
+"0064401472","Zlateh the Goat and Other Stories","Isaac Bashevis Singer","1984","HarperCollins Publishers",1
+"0156001942","Winter's Tale","Mark Helprin","1995","Harvest Books",6
+"055326382X","The Dancing Wu Li Masters: An Overview of the New Physics","Gary Zukav","1994","Bantam Books",1
+"0345418018","The World According to Garp (Ballantine Reader's Circle)","John Irving","1997","Ballantine Books",4
+"0684801469","Farewell To Arms","Ernest Hemingway","1995","Scribner",1
+"9997522052","Collected Works of Emile Zola","Emile Zola","2001","Chatto &amp",1
+"0872203492","Plato Complete Works","Plato","1997","Hackett Publishing Company",1
+"0312420145","The Twenty-Seventh City : A Novel (Bestselling Backlist)","Jonathan Franzen","2001","Picador",1
+"0375401318","Breaking Clean","JUDY BLUNT","2002","Knopf",1
+"0140253602","Felicia's Journey","William Trevor","1996","Penguin Books",3
+"0671789422","Possessing the Secret of Joy","Alice Walker","1993","Pocket",1
+"1566193966","History of Croatia","Stephen Gazi","0","Barnes Noble Books",17
+"014016930X","Angle of Repose (Contemporary American Fiction)","Wallace Stegner","1992","Penguin Books",2
+"0140077022","White Noise (Contemporary American Fiction)","Don DeLillo","1991","Penguin Books",1
+"0679732764","Invisible Man","Ralph Ellison","1995","Vintage Books USA",3
+"0553273604","Of Love and Shadows","Isabel Allende","1988","Bantam Books",1
+"0553273914","The House of the Spirits","Isabel Allende","1986","Bantam Books",4
+"0060256672","Where the Sidewalk Ends : Poems and Drawings","Shel Silverstein","1974","HarperCollins",1
+"039592720X","Interpreter of Maladies","Jhumpa Lahiri","1999","Houghton Mifflin Co",2
